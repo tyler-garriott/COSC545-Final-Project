@@ -1,0 +1,688 @@
+rank,domain,doc_type,url,link_url,anchor_text,score,source,source_timestamp
+1,google.com,privacy,http://www.google.com/intl/en/policies/privacy/,https://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220702000238
+1,google.com,terms,https://www.google.com/intl/en/policies/terms/,https://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220702000238
+1,google.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy?hl=en&fg=1,Privacy,6,homepage_latest,20261107182823
+1,google.com,terms,https://policies.google.com/terms,https://policies.google.com/terms?hl=en&fg=1,Terms,6,homepage_latest,20261107182823
+4,ezviz7.com,terms,https://www.ezviz.com/us/legal/terms-of-service,https://www.ezviz.com/us/legal/terms-of-service,Terms of Service,9,homepage_2022,20220314100924
+4,ezviz7.com,privacy,https://www.ezviz.com/us/legal/privacy-policy,https://www.ezviz.com/us/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220314100924
+4,ezviz7.com,privacy,https://www.ezviz.com/eu/legal/privacy-policy,https://www.ezviz.com/eu/legal/privacy-policy,Privacy Policy,9,homepage_latest,20221123063842
+4,ezviz7.com,terms,https://www.ezviz.com/eu/legal/terms-of-service,https://www.ezviz.com/eu/legal/terms-of-service,Terms of Service,9,homepage_latest,20221123063842
+2,cloudflare.com,privacy,https://www.cloudflare.com/privacypolicy/,https://www.cloudflare.com/privacypolicy/,Privacy Policy,9,homepage_2022,20220701235640
+2,cloudflare.com,terms,https://www.cloudflare.com/website-terms/,https://www.cloudflare.com/website-terms/,Terms of Use,5,homepage_2022,20220701235640
+2,cloudflare.com,terms,https://www.cloudflare.com/policies/terms/,https://www.cloudflare.com/policies/terms/,Terms of use,8,homepage_latest,20261107171507
+3,amazonaws.com,privacy,https://aws.amazon.com/privacy/,https://aws.amazon.com/privacy/?nc1=f_pr,Privacy,6,homepage_2022,20220702014206
+3,amazonaws.com,terms,https://aws.amazon.com/terms/,https://aws.amazon.com/terms/?nc1=f_pr,Site Terms,6,homepage_2022,20220702014206
+3,amazonaws.com,terms,https://aws.amazon.com/events/terms/,https://aws.amazon.com/events/terms/?nc1=f_cc,Event Terms & Conditions,8,homepage_latest,20261027205446
+6,fbcdn.net,privacy,https://www.facebook.com/privacy/policy/,https://www.facebook.com/privacy/explanation/,Privacy,6,homepage_2022,20220701231632
+6,fbcdn.net,terms,https://www.facebook.com/policies?ref=pf,https://www.facebook.com/policies?ref=pf,Terms,3,homepage_2022,20220701231632
+5,facebook.com,privacy,https://www.facebook.com/privacy/policy/,https://www.facebook.com/privacy/explanation/,Privacy,6,homepage_2022,20220702000108
+5,facebook.com,terms,https://www.facebook.com/policies?ref=pf,https://www.facebook.com/policies?ref=pf,Terms,3,homepage_latest,20261107172256
+9,microsoft.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220702000117
+9,microsoft.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220702000117
+11,youtube.com,terms,https://www.youtube.com/t/terms,https://www.youtube.com/t/terms,Terms,6,homepage_2022,20220702000028
+11,youtube.com,privacy,https://policies.google.com/privacy,https://www.youtube.com/t/privacy,Privacy,6,homepage_2022,20220702000028
+12,apple.com,terms,https://www.apple.com/legal/internet-services/terms/site.html,https://www.apple.com/legal/internet-services/terms/site.html,Terms of Use,8,homepage_2022,20220702000236
+12,apple.com,privacy,https://www.apple.com/legal/privacy/,https://www.apple.com/legal/privacy/,Privacy Policy,8,homepage_2022,20220702000236
+14,instagram.com,privacy,https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect,https://www.instagram.com/legal/privacy/,Privacy,6,homepage_latest,20261107153432
+14,instagram.com,terms,https://www.instagram.com/legal/terms/,https://www.instagram.com/legal/terms/,Terms,6,homepage_latest,20261107153432
+17,linkedin.com,terms,https://www.linkedin.com/legal/user-agreement,https://www.linkedin.com/legal/user-agreement?trk=homepage-basic_footer-user-agreement,User Agreement,9,homepage_2022,20220701234403
+17,linkedin.com,privacy,https://www.linkedin.com/legal/privacy-policy,https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy,Privacy Policy,9,homepage_2022,20220701234403
+17,linkedin.com,terms,https://www.linkedin.com/legal/user-agreement/,https://www.linkedin.com/legal/user-agreement/,User Agreement,9,homepage_latest,20261107173405
+19,azure.com,privacy,https://azure.microsoft.com/en-us/support/legal/privacy-data-management/,https://azure.microsoft.com/en-us/privacy-data-management/,Privacy Data Management,6,homepage_2022,20220701145514
+19,azure.com,privacy,https://go.microsoft.com/fwlink/?LinkId=521839,https://go.microsoft.com/fwlink/?LinkId=521839,Privacy,3,homepage_latest,20261016191624
+19,azure.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_latest,20261016191624
+22,googlevideo.com,privacy,http://www.google.com/intl/en/policies/privacy/,http://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220702155918
+22,googlevideo.com,terms,https://www.google.com/intl/en/policies/terms/,http://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220702155918
+16,twitter.com,terms,https://x.com/en/tos,https://twitter.com/tos,Terms of Service,8,homepage_2022,20220702000101
+16,twitter.com,privacy,https://twitter.com/privacy,https://twitter.com/privacy,Privacy Policy,8,homepage_2022,20220702000101
+28,dzen.ru,terms,https://dzen.ru/legal/ru/termsofuse/index.html,https://yandex.ru/legal/zen_termsofuse/,Читать полный текст пользовательского соглашения,4,homepage_2022,20220701171202
+30,shiabank.com,terms,http://www.bluehost.com/cgi/terms,http://www.bluehost.com/cgi/terms,Terms,6,homepage_2022,20211223003405
+32,office.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220702021217
+32,office.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220702021217
+32,office.com,privacy,https://privacy.microsoft.com/privacystatement,https://privacy.microsoft.com/privacystatement,Privacy Statement,9,homepage_latest,20261101151150
+32,office.com,terms,https://www.microsoft.com/en-us/legal/terms-of-use,https://go.microsoft.com/fwlink/?linkid=206977&clcid=0x409,Terms of Use,5,homepage_latest,20261101151150
+31,amazon.com,privacy,https://www.amazon.com/privacy,,,,path_probe,
+34,github.com,privacy,https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement,https://docs.github.com/en/github/site-policy/github-privacy-statement,Privacy,7,homepage_2022,20220702000800
+34,github.com,terms,https://docs.github.com/en/site-policy/github-terms/github-terms-of-service,https://docs.github.com/en/github/site-policy/github-terms-of-service,Terms,7,homepage_2022,20220702000800
+33,live.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220702000745
+36,aaplimg.com,terms,https://www.apple.com/legal/internet-services/terms/site.html,https://www.apple.com/legal/internet-services/terms/site.html,Terms of Use,8,homepage_2022,20211125071612
+36,aaplimg.com,privacy,https://www.apple.com/legal/privacy/,https://www.apple.com/legal/privacy/,Privacy Policy,8,homepage_2022,20211125071612
+38,wikipedia.org,terms,https://meta.wikimedia.org/wiki/Terms_of_use,https://meta.wikimedia.org/wiki/Terms_of_use,Terms of Use,9,homepage_2022,20220701230726
+38,wikipedia.org,privacy,https://meta.wikimedia.org/wiki/Privacy_policy,https://meta.wikimedia.org/wiki/Privacy_policy,Privacy Policy,9,homepage_2022,20220701230726
+38,wikipedia.org,privacy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy,Privacy Policy,9,homepage_latest,20261107050423
+38,wikipedia.org,terms,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use,Terms of Use,9,homepage_latest,20261107050423
+37,trafficmanager.net,privacy,http://www.trafficmanager.net/privacypolicy,http://www.trafficmanager.net/privacypolicy,Privacy Policy,9,homepage_2022,20101208100925
+39,fastly.net,terms,https://www.fastly.com/terms,https://www.fastly.com/terms,Terms of service,8,homepage_2022,20220701232530
+39,fastly.net,privacy,https://www.fastly.com/privacy,https://www.fastly.com/privacy,Privacy policy,8,homepage_2022,20220701232530
+41,cloud.microsoft,privacy,https://azure.microsoft.com/en-us/support/legal/privacy-data-management/,https://azure.microsoft.com/en-us/privacy-data-management/,Privacy Data Management,6,homepage_2022,20220713150118
+41,cloud.microsoft,privacy,https://privacy.microsoft.com/privacystatement,https://privacy.microsoft.com/privacystatement,Privacy Statement,9,homepage_latest,20261009202537
+41,cloud.microsoft,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_latest,20261009202537
+42,whatsapp.net,privacy,https://www.whatsapp.com/privacy,https://www.whatsapp.com/privacy,Privacy,6,homepage_2022,20220425001840
+42,whatsapp.net,terms,https://www.whatsapp.com/legal/,https://www.whatsapp.com/legal/,Privacy & Terms,4,homepage_2022,20220425001840
+45,office.net,privacy,http://r.office.microsoft.com/r/rlidOOPrivacyStatement?clid=en-US,http://r.office.microsoft.com/r/rlidOOPrivacyStatement?clid=en-US,Privacy Statement,9,homepage_2022,20080215003807
+46,bing.com,privacy,https://www.microsoft.com/en-us/privacy/microsoft-consumer-health-data-privacy-policy,https://go.microsoft.com/fwlink/?linkid=2259814,Consumer Health Privacy,3,homepage_latest,20261107180228
+47,x.com,terms,https://x.com/en/tos,https://x.com/tos,Terms of Service,8,homepage_latest,20261107145048
+47,x.com,privacy,https://x.com/en/privacy,https://x.com/privacy,Privacy Policy,8,homepage_latest,20261107145048
+50,doubleclick.net,privacy,http://www.google.com/intl/en/policies/privacy/,https://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220701235832
+50,doubleclick.net,terms,https://www.google.com/intl/en/policies/terms/,https://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220701235832
+52,pinterest.com,terms,https://www.pinterest.com/terms-of-service/,,,,path_probe,
+52,pinterest.com,privacy,https://www.pinterest.com/privacy/,,,,path_probe,
+53,googlesyndication.com,privacy,http://www.google.com/intl/en/policies/privacy/,http://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220701234737
+53,googlesyndication.com,terms,https://www.google.com/intl/en/policies/terms/,http://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220701234737
+53,googlesyndication.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy?hl=en&fg=1,Privacy,6,homepage_latest,20261105163526
+53,googlesyndication.com,terms,https://policies.google.com/terms,https://policies.google.com/terms?hl=en&fg=1,Terms,6,homepage_latest,20261105163526
+55,gandi.net,terms,https://www.gandi.net/en/contracts/terms-of-use,https://www.gandi.net/en/contracts/terms-of-use,Terms of Use,9,homepage_2022,20220702050715
+55,gandi.net,privacy,https://www.gandi.net/en/contracts/privacy-policy,https://www.gandi.net/en/contracts/privacy-policy,Privacy Policy,9,homepage_2022,20220702050715
+58,cloudflare.net,privacy,https://www.cloudflare.com/privacypolicy/,https://www.cloudflare.com/privacypolicy/,Privacy Policy,9,homepage_2022,20220704182116
+58,cloudflare.net,terms,https://www.cloudflare.com/website-terms/,https://www.cloudflare.com/website-terms/,Terms of Use,5,homepage_2022,20220704182116
+57,windows.net,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of Use,5,homepage_2022,20220702064245
+60,goo.gl,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy,6,homepage_2022,20220701232209
+60,goo.gl,terms,https://goo.gl/LeGal,,,,path_probe,
+61,myfritz.net,terms,https://www.myfritz.net/terms,,,,path_probe,
+63,tiktok.com,terms,https://www.tiktok.com/legal/page/us/terms-of-service/en,https://www.tiktok.com/legal/terms-of-service?lang=en,Terms,7,homepage_2022,20220701235543
+63,tiktok.com,privacy,https://www.tiktok.com/legal/page/us/privacy-policy/en,https://www.tiktok.com/legal/privacy-policy-row?lang=en,Privacy,7,homepage_2022,20220701235543
+65,windowsupdate.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220626042355
+65,windowsupdate.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220626042355
+64,zoom.us,privacy,https://www.zoom.com/en/trust/privacy/privacy-statement/,https://www.zoom.us/privacy,Privacy Policy,8,homepage_2022,20220701235307
+64,zoom.us,terms,https://www.zoom.com/en/trust/terms/,https://www.zoom.us/terms,Terms of Service,8,homepage_2022,20220701235307
+67,whatsapp.com,privacy,https://www.whatsapp.com/privacy,https://www.whatsapp.com/privacy,Privacy,6,homepage_2022,20220702011359
+67,whatsapp.com,terms,https://www.whatsapp.com/legal/,https://www.whatsapp.com/legal/,Privacy & Terms,4,homepage_2022,20220702011359
+68,googledomains.com,privacy,https://www.google.com/policies/privacy/,https://www.google.com/policies/privacy/,Privacy,6,homepage_2022,20220813231229
+68,googledomains.com,terms,https://www.google.com/policies/terms/,https://www.google.com/policies/terms/,Terms,6,homepage_2022,20220813231229
+70,skype.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220701222922
+70,skype.com,terms,https://www.microsoft.com/en-US/servicesagreement/,http://go.microsoft.com/fwlink/?LinkID=246338,Terms of use,5,homepage_2022,20220701222922
+70,skype.com,privacy,https://www.microsoft.com/en-us/privacy/microsoft-consumer-health-data-privacy-policy,https://go.microsoft.com/fwlink/?linkid=2259814,Consumer Health Privacy,3,homepage_latest,20261026210054
+70,skype.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_latest,20261026210054
+72,wa.me,privacy,https://www.whatsapp.com/privacy,https://www.whatsapp.com/privacy,Privacy,6,homepage_2022,20220702003332
+72,wa.me,terms,https://www.whatsapp.com/legal/,https://www.whatsapp.com/legal/,Privacy & Terms,4,homepage_2022,20220702003332
+71,yahoo.com,privacy,https://legal.yahoo.com/us/en/yahoo/privacy/index.html,https://legal.yahoo.com/us/en/yahoo/privacy/index.html,Privacy (Updated),6,homepage_2022,20220702000033
+71,yahoo.com,terms,https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html,https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html,Terms (Updated),6,homepage_2022,20220702000033
+71,yahoo.com,privacy,https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html,https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html,About Our Ads,3,homepage_latest,20261107132954
+73,digicert.com,terms,https://www.digicert.com/security-terms,https://www.digicert.com/security-terms,Terms of Use,5,homepage_2022,20220702001950
+73,digicert.com,privacy,https://privacy.digicert.com/,https://www.digicert.com/digicert-privacy-policy,Privacy Policy,9,homepage_2022,20220702001950
+77,opera.com,privacy,https://www.opera.com/legal/privacy,https://www.opera.com/privacy,Privacy Statement,8,homepage_2022,20220701232352
+77,opera.com,terms,https://www.opera.com/legal/terms,https://www.opera.com/terms,Terms of Service,8,homepage_2022,20220701232352
+80,workers.dev,privacy,https://www.cloudflare.com/privacypolicy/,https://www.cloudflare.com/policies/privacy/,Privacy policy,8,homepage_latest,20261023074614
+80,workers.dev,terms,https://www.cloudflare.com/policies/terms/,https://www.cloudflare.com/policies/terms/,Terms of use,8,homepage_latest,20261023074614
+78,spotify.com,privacy,https://www.spotify.com/legal/privacy-policy,,,,path_probe,
+82,tiktokv.com,terms,https://www.tiktok.com/legal/page/us/terms-of-service/en,https://www.tiktok.com/legal/terms-of-service?lang=en,Terms,7,homepage_2022,20220701035645
+82,tiktokv.com,privacy,https://www.tiktok.com/legal/page/us/privacy-policy/en,https://www.tiktok.com/legal/privacy-policy-row?lang=en,Privacy,7,homepage_2022,20220701035645
+81,a2z.com,privacy,https://www.amazon.jobs/en/privacy_page,https://www.amazon.jobs/en/privacy/us,Privacy and Data,6,homepage_2022,20161001154719
+83,amazonvideo.com,terms,https://www.primevideo.com/ww-av-legal-home?tag=amazon-es-mac-saf-21&ref_=atv_ftr_ter,https://www.primevideo.com/ww-av-legal-home?tag=amazon-es-mac-saf-21&ref_=atv_ftr_ter,Terms and Privacy Notice,3,homepage_latest,20261015180728
+83,amazonvideo.com,privacy,https://www.primevideo.com/ww-av-legal-home?tag=amazon-es-mac-saf-21&ref_=atv_ftr_ter,https://www.primevideo.com/ww-av-legal-home?tag=amazon-es-mac-saf-21&ref_=atv_ftr_ter,Terms and Privacy Notice,5,homepage_latest,20261015180728
+84,b-cdn.net,terms,https://bunny.net/tos/,https://bunny.net/tos,Terms Of Service,8,homepage_2022,20220702123250
+84,b-cdn.net,privacy,https://bunny.net/privacy/,https://bunny.net/privacy,Privacy & Data Policy,6,homepage_2022,20220702123250
+87,vimeo.com,privacy,https://vimeo.com/legal/privacy/policy,https://vimeo.com/privacy,Privacy,6,homepage_2022,20220701235620
+87,vimeo.com,terms,https://vimeo.com/legal/,https://vimeo.com/terms,Terms,6,homepage_2022,20220701235620
+89,3gppnetwork.org,privacy,http://www.sedoparking.com/search/registrar.php?registrar=dotsterexpired&domain=3GPPNETWORK.ORG&site_id=36547,http://www.sedoparking.com/search/registrar.php?registrar=dotsterexpired&domain=3GPPNETWORK.ORG&site_id=36547,Privacy Policy,5,homepage_2022,20210701032108
+90,qq.com,privacy,https://privacy.qq.com/mb/policy/tencent-privacypolicy,https://privacy.qq.com/mb/policy/tencent-privacypolicy,隐私政策,4,homepage_latest,20261107051417
+96,epicgames.com,terms,https://www.epicgames.com/site/en-US/tos,https://www.epicgames.com/site/en-US/tos,Terms of Service,8,homepage_2022,20220702140449
+96,epicgames.com,privacy,https://www.epicgames.com/site/en-US/privacypolicy,https://www.epicgames.com/site/en-US/privacypolicy,Privacy Policy,9,homepage_2022,20220702140449
+94,msn.com,terms,https://www.microsoft.com/en-US/servicesagreement/,https://go.microsoft.com/fwlink/?LinkID=246338,Terms of use,5,homepage_2022,20220702000031
+93,mozilla.org,privacy,https://www.mozilla.org/en-US/privacy/firefox/,https://www.mozilla.org/en-US/privacy/firefox/,Firefox Privacy Notice,8,homepage_2022,20220701233433
+93,mozilla.org,privacy,https://www.mozilla.org/en-US/privacy/websites/,https://www.mozilla.org/en-US/privacy/websites/,this Privacy Notice,8,homepage_latest,20261105085644
+99,wordpress.com,privacy,https://automattic.com/privacy/,https://automattic.com/privacy/,Privacy Policy,8,homepage_2022,20220702000119
+99,wordpress.com,terms,https://wordpress.com/tos/,,,,path_probe,
+100,t.me,privacy,https://telegram.org/privacy,https://telegram.org/privacy,Privacy,6,homepage_latest,20261106050132
+100,t.me,terms,https://t.me/Terms,,,,path_probe,
+98,f5.com,privacy,https://www.f5.com/company/policies/privacy-notice,https://www.f5.com/company/policies/privacy-notice,Privacy,7,homepage_2022,20220701000140
+98,f5.com,privacy,https://www.f5.com/company/policies/privacy-compliance-and-practices,https://www.f5.com/company/policies/privacy-compliance-and-practices,Privacy,6,homepage_latest,20261019112334
+103,reddit.com,terms,https://redditinc.com/policies/user-agreement,https://www.redditinc.com/policies/user-agreement,Terms,7,homepage_2022,20220702000101
+103,reddit.com,privacy,https://www.reddit.com/policies/privacy-policy,https://www.redditinc.com/policies/privacy-policy,Privacy policy,9,homepage_2022,20220702000101
+102,sentry.io,privacy,https://sentry.io/privacy/,https://sentry.io/privacy/,privacy policy,8,homepage_2022,20220702001801
+102,sentry.io,terms,https://sentry.io/terms/,https://sentry.io/terms/,Terms,6,homepage_2022,20220702001801
+102,sentry.io,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms of Service,8,homepage_latest,20261023064746
+104,lencr.org,privacy,https://letsencrypt.org/privacy/,https://letsencrypt.org/privacy/,privacy policy,8,homepage_2022,20220607110042
+104,lencr.org,terms,https://www.abetterinternet.org/terms-of-service/,https://www.abetterinternet.org/terms-of-service,Terms,7,homepage_latest,20261013222228
+108,ui.com,terms,https://ui.com/legal/termsofservice/,https://www.ui.com/legal/termsofservice/,Terms of Service,9,homepage_latest,20261106150546
+108,ui.com,privacy,https://www.ui.com/legal/privacypolicy/,https://www.ui.com/legal/privacypolicy/,Privacy Policy,9,homepage_latest,20261106150546
+101,nginx.com,privacy,https://www.nginx.com/privacy-policy/,https://www.nginx.com/privacy-policy/,Privacy Notice,9,homepage_2022,20220701223851
+101,nginx.com,privacy,https://www.f5.com/company/policies/privacy-compliance-and-practices,https://www.f5.com/company/policies/privacy-compliance-and-practices,Privacy,6,homepage_latest,20261027034109
+101,nginx.com,terms,https://www.nginx.com/legal/,,,,path_probe,
+112,chatgpt.com,privacy,https://chatgpt.com/privacy-policy,,,,path_probe,
+110,yandex.ru,terms,https://yandex.ru/legal/,,,,path_probe,
+115,intuit.com,privacy,https://www.intuit.com/privacy/,https://www.intuit.com/privacy/,Learn about Intuit Privacy,6,homepage_2022,20220701235624
+115,intuit.com,terms,https://www.intuit.com/legal/terms/en-us/website/,https://accounts.intuit.com/terms-of-service,Terms and Conditions,9,homepage_2022,20220701235624
+118,bit.ly,terms,https://bitly.com/pages/terms-of-service/,https://bitly.com/pages/terms-of-service,Terms of Service,9,homepage_2022,20220702000407
+118,bit.ly,privacy,https://bitly.com/pages/privacy/,https://bitly.com/pages/privacy,Privacy Policy,8,homepage_2022,20220702000407
+122,samsung.com,privacy,https://www.samsung.com/us/privacy/,https://www.samsung.com/us/privacy/,See our Privacy Policy here.,8,homepage_2022,20220701173216
+122,samsung.com,terms,https://www.samsung.com/us/trade-in/terms-and-conditions/,https://www.samsung.com/us/trade-in/terms-and-conditions/,www.samsung.com/us/trade-in/terms-and-conditions/,6,homepage_2022,20220701173216
+122,samsung.com,privacy,https://www.samsung.com/us/privacy-policy/consumer-health-data-privacy-statement/,https://www.samsung.com/us/privacy-policy/consumer-health-data-privacy-statement/,Consumer Health Data Privacy Statement,9,homepage_latest,20261103191913
+128,office365.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220704214434
+128,office365.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220704214434
+130,openai.com,terms,https://openai.com/policies/terms-of-use/,https://openai.com/terms/,Terms of Use,8,homepage_2022,20220702053943
+130,openai.com,privacy,https://openai.com/policies/privacy-policy/,https://openai.com/privacy/,Privacy Policy,8,homepage_2022,20220702053943
+132,android.com,privacy,https://policies.google.com/?hl=en,https://policies.google.com/?hl=en,Privacy Policy,5,homepage_2022,20220702043403
+132,android.com,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms and Conditions,8,homepage_latest,20261106141725
+132,android.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy Policy .,8,homepage_latest,20261106141725
+134,dropbox.com,terms,https://www.dropbox.com/terms,https://www.dropbox.com/terms,Privacy & terms,6,homepage_latest,20261107165708
+134,dropbox.com,privacy,https://www.dropbox.com/terms,https://www.dropbox.com/terms,Privacy & terms,3,homepage_latest,20261107165708
+133,ytimg.com,terms,http://mccaine.net/,http://MCCAINE.NET/,Real Estate Terms ? From Condominiums To Deeds Of Trust,3,homepage_2022,20060821184203
+136,adobe.io,privacy,https://www.adobe.com/privacy.html,https://adobe.com/privacy.html,Privacy,6,homepage_2022,20220703225642
+136,adobe.io,terms,https://www.adobe.com/legal/terms.html,https://adobe.com/legal/terms.html,Terms of Use,8,homepage_2022,20220703225642
+135,github.io,terms,https://docs.github.com/en/site-policy/github-terms/github-terms-of-service,https://docs.github.com/en/github/site-policy/github-terms-of-service,Terms,7,homepage_2022,20220701235624
+135,github.io,privacy,https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement,https://docs.github.com/en/github/site-policy/github-privacy-statement,Privacy,7,homepage_2022,20220701235624
+139,cloudflare-dns.com,terms,https://www.cloudflare.com/website-terms/,https://www.cloudflare.com/website-terms/,Terms,3,homepage_latest,20261006212522
+139,cloudflare-dns.com,privacy,https://www.cloudflare.com/privacypolicy/,https://www.cloudflare.com/privacypolicy/,Privacy Policy,9,homepage_latest,20261006212522
+137,outlook.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_2022,20220702000632
+138,windows.com,privacy,https://www.microsoft.com/en-us/privacy,https://privacy.microsoft.com/en-us,Privacy at Microsoft,3,homepage_2022,20220702034720
+138,windows.com,terms,https://go.microsoft.com/fwlink/?LinkID=530144,https://go.microsoft.com/fwlink/?LinkID=530144,Terms of use,5,homepage_2022,20220702034720
+138,windows.com,terms,https://go.microsoft.com/fwlink/?LinkID=206977,https://go.microsoft.com/fwlink/?LinkID=206977,Terms of use,5,homepage_latest,20261027174635
+140,nic.ru,privacy,https://www.nic.ru/info/services/privacy/,https://www.nic.ru/info/services/privacy/,Privacy для доменов,6,homepage_2022,20220702015357
+141,nih.gov,privacy,https://www.nih.gov/privacy-policy,https://www.nih.gov/privacy-policy,Privacy Policy,9,homepage_latest,20261105040923
+144,webex.com,terms,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,Terms & Conditions,8,homepage_2022,20220702013107
+144,webex.com,privacy,https://www.cisco.com/site/us/en/about/legal/privacy.html,https://www.cisco.com/c/en/us/about/legal/privacy-full.html,Privacy Statement,8,homepage_2022,20220702013107
+143,apache.org,terms,https://www.apache.org/foundation/glossary.html,https://apache.org/foundation/glossary.html,Glossary of Terms,3,homepage_2022,20220701211659
+143,apache.org,privacy,https://privacy.apache.org/policies/privacy-policy-public.html,https://apache.org/foundation/policies/privacy.html,Privacy Policy,8,homepage_2022,20220701211659
+146,discord.gg,terms,https://discord.com/terms,https://discord.com/terms,Terms,6,homepage_2022,20220702022946
+146,discord.gg,privacy,https://discord.com/privacy,https://discord.com/privacy,Privacy,6,homepage_2022,20220702022946
+149,vk.ru,privacy,https://vk.ru/challenge/privacy_ru.html,https://vk.ru/challenge/privacy_ru.html,Ð£ÑÐ»Ð¾Ð²Ð¸Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ,3,homepage_latest,20261107183248
+149,vk.ru,terms,https://vk.ru/terms,,,,path_probe,
+150,archive.org,terms,https://archive.org/about/terms,http://archive.org/about/terms.php,Terms of Service (last updated 12/31/2014),8,homepage_2022,20220702000404
+153,duckdns.org,terms,https://www.duckdns.org/tac.jsp,http://www.duckdns.org/tac.jsp,Terms of Use,5,homepage_2022,20220701233018
+153,duckdns.org,privacy,https://www.duckdns.org/pp.jsp,http://www.duckdns.org/pp.jsp,Privacy Statement,5,homepage_2022,20220701233018
+154,supertms.com,privacy,http://supertms.com/,http://supertms.com/,Privacy Policy,5,homepage_2022,20160111050758
+157,crashlytics.com,terms,https://firebase.google.com/terms,https://firebase.google.com/terms/,Terms,6,homepage_2022,20220704094350
+157,crashlytics.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy,6,homepage_2022,20220704094350
+156,vk.com,terms,https://vk.com/terms,,,,path_probe,
+156,vk.com,privacy,https://vk.com/privacy,,,,path_probe,
+159,tumblr.com,terms,https://www.tumblr.com/policy/en/terms-of-service,https://www.tumblr.com/policy/terms-of-service,Legal,5,homepage_2022,20220701234741
+159,tumblr.com,privacy,https://www.tumblr.com/privacy,https://www.tumblr.com/policy/privacy,Privacy,6,homepage_2022,20220701234741
+158,snapchat.com,privacy,https://values.snap.com/privacy/privacy-policy,https://www.snap.com/privacy/privacy-policy,Privacy Policy,9,homepage_2022,20220701235907
+158,snapchat.com,terms,https://www.snap.com/terms,https://snap.com/terms/,Terms of Service,8,homepage_2022,20220701235907
+161,godaddy.com,privacy,https://www.godaddy.com/legal/agreements/privacy-policy,https://www.godaddy.com/legal/agreements/privacy-policy,Privacy Policy,9,homepage_2022,20220702003206
+161,godaddy.com,terms,https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement,https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement,Universal Terms of Service,9,homepage_2022,20220702003206
+163,nytimes.com,privacy,https://www.nytimes.com/privacy/privacy-policy,https://www.nytimes.com/privacy/privacy-policy,Privacy Policy,9,homepage_2022,20220701234920
+164,reg.ru,privacy,https://www.reg.ru/domain/service/absolute_privacy,https://www.reg.ru/domain/service/absolute_privacy,ÐÐ°ÑÐ¸ÑÐ° Ð¿ÐµÑÑÐ¾Ð½Ð°Ð»ÑÐ½ÑÑ Ð´Ð°Ð½Ð½ÑÑ,3,homepage_2022,20220701205105
+164,reg.ru,terms,https://www.reg.ru/legal/,,,,path_probe,
+168,ubuntu.com,privacy,https://canonical.com/legal/data-privacy,https://ubuntu.com/legal/data-privacy,Data privacy,6,homepage_2022,20220702012424
+168,ubuntu.com,terms,https://ubuntu.com/legal/terms,,,,path_probe,
+167,gravatar.com,privacy,https://automattic.com/privacy/,http://automattic.com/privacy/,Read our Privacy Policy,8,homepage_2022,20220702001030
+169,telegram.org,privacy,https://telegram.org/privacy,https://telegram.org/privacy,Privacy,6,homepage_latest,20261107124112
+169,telegram.org,terms,https://telegram.org/terms,,,,path_probe,
+171,shopify.com,terms,https://www.shopify.com/legal/terms,https://www.shopify.com/legal/terms,Terms of Service,8,homepage_2022,20220702005203
+171,shopify.com,privacy,https://www.shopify.com/legal/privacy,https://www.shopify.com/legal/privacy,Privacy Policy,8,homepage_2022,20220702005203
+172,kaspersky.com,privacy,https://www.kaspersky.com/web-privacy-policy,https://www.kaspersky.com/web-privacy-policy,Privacy Policy,9,homepage_2022,20220701231139
+177,google-analytics.com,privacy,http://www.google.com/intl/en/policies/privacy/,https://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220701235949
+177,google-analytics.com,terms,https://www.google.com/intl/en/policies/terms/,https://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220701235949
+175,paypal.com,privacy,https://www.paypal.com/privacy-center,https://www.paypal.com/privacy-center,Datenschutz,3,homepage_2022,20220701233749
+178,scorecardresearch.com,privacy,https://www.scorecardresearch.com/privacy.aspx,https://www.scorecardresearch.com/privacy.aspx,Privacy Policy,8,homepage_2022,20220702013544
+178,scorecardresearch.com,terms,https://www.scorecardresearch.com/TermsOfService.aspx,https://www.scorecardresearch.com/TermsOfService.aspx,Terms of Service,9,homepage_2022,20220702013544
+179,pages.dev,privacy,https://www.cloudflare.com/privacypolicy/,https://www.cloudflare.com/privacypolicy/,Privacy,7,homepage_2022,20220726043859
+179,pages.dev,terms,https://www.cloudflare.com/website-terms/,https://www.cloudflare.com/website-terms/,Terms,3,homepage_2022,20220726043859
+179,pages.dev,terms,https://www.cloudflare.com/policies/terms/,https://www.cloudflare.com/policies/terms/,Terms of use,8,homepage_latest,20260920050814
+181,telekom.net,privacy,https://www.telekom.com/en/company/data-privacy-and-security,https://www.telekom.com/en/company/data-privacy-and-security,Data privacy and security,6,homepage_latest,20250909204906
+184,discord.com,terms,https://discord.com/terms,https://discord.com/terms,Terms,6,homepage_2022,20220702000928
+184,discord.com,privacy,https://discord.com/privacy,https://discord.com/privacy,Privacy,6,homepage_2022,20220702000928
+183,w3.org,privacy,https://www.w3.org/mission/privacy/,https://www.w3.org/Privacy/,Privacy,6,homepage_2022,20220701210726
+186,creativecommons.org,privacy,https://creativecommons.org/privacy/,https://creativecommons.org/privacy/,Privacy,6,homepage_2022,20220702000138
+186,creativecommons.org,terms,https://creativecommons.org/terms/,https://creativecommons.org/terms/,Terms,6,homepage_2022,20220702000138
+187,meraki.com,terms,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,Terms & Conditions,8,homepage_latest,20261013124331
+187,meraki.com,privacy,https://www.cisco.com/site/us/en/about/legal/privacy.html,https://www.cisco.com/site/us/en/about/legal/privacy.html,Privacy,6,homepage_latest,20261013124331
+189,unity3d.com,privacy,https://unity.com/legal/privacy-policy,https://unity3d.com/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220701163820
+189,unity3d.com,terms,https://unity.com/glossary,https://unity.com/glossary,Glossary Library of technical terms,3,homepage_latest,20261027122454
+191,soundcloud.com,privacy,https://soundcloud.com/pages/privacy,https://soundcloud.com/pages/privacy,Privacy Policy,8,homepage_latest,20261107180525
+191,soundcloud.com,terms,https://soundcloud.com/terms,,,,path_probe,
+193,cnn.com,terms,https://www.cnn.com/terms,https://www.cnn.com/terms,Terms of Use,8,homepage_2022,20220702001101
+193,cnn.com,privacy,https://www.cnn.com/privacy,https://www.cnn.com/privacy,Privacy Policy,8,homepage_2022,20220702001101
+193,cnn.com,terms,https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy,https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy,Terms of Service with Clare Duffy,9,homepage_latest,20261107211739
+196,theguardian.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Google Privacy Policy,8,homepage_2022,20220702002245
+196,theguardian.com,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms of Service,8,homepage_2022,20220702002245
+196,theguardian.com,privacy,https://www.theguardian.com/info/privacy,https://www.theguardian.com/info/privacy,Privacy policy,8,homepage_latest,20261101101711
+197,pki.goog,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy,6,homepage_2022,20220701100004
+197,pki.goog,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms,6,homepage_2022,20220701100004
+199,astrumu.io,terms,https://astrumu.io/terms.html,https://astrumu.io/terms.html,Terms of Service,8,homepage_latest,20261015053158
+199,astrumu.io,privacy,https://astrumu.io/privacy.html,https://astrumu.io/privacy.html,Privacy Policy,8,homepage_latest,20261015053158
+202,medium.com,privacy,https://policy.medium.com/medium-privacy-policy-f03bf92035c9,https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=home-------------------------------------,Privacy,7,homepage_2022,20220702000121
+202,medium.com,terms,https://policy.medium.com/medium-terms-of-service-9db0094a1e0f,https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=home-------------------------------------,Terms,7,homepage_2022,20220702000121
+205,afternic.com,privacy,https://www.afternic.com/legal,https://www.afternic.com/legal,Privacy Policy,5,homepage_2022,20220701210515
+205,afternic.com,privacy,https://www.afternic.com/legal/agreements/privacy-policy,https://www.afternic.com/legal/agreements/privacy-policy,Privacy Policy,9,homepage_latest,20261106182711
+205,afternic.com,terms,https://www.afternic.com/terms,,,,path_probe,
+204,hichina.com,terms,http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html,http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html,法律声明及隐私权政策,3,homepage_2022,20220527121839
+206,stripe.com,terms,https://stripe.com/privacy,https://stripe.com/privacy,Privacy & terms,3,homepage_2022,20220702001850
+206,stripe.com,privacy,https://stripe.com/privacy,https://stripe.com/privacy,Privacy & terms,6,homepage_2022,20220702001850
+206,stripe.com,terms,https://stripe.com/legal/ssa,https://stripe.com/legal/ssa,product terms,4,homepage_latest,20261104135421
+207,forter.com,privacy,https://www.forter.com/privacy-policy/,https://www.forter.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220701232736
+207,forter.com,privacy,https://www.forter.com/privacy-security-hub/,https://www.forter.com/privacy-security-hub/,Privacy & Security Learn how we keep your information secure and respect data privacy,6,homepage_latest,20261012014826
+207,forter.com,terms,https://www.forter.com/terms-of-use/,https://www.forter.com/terms-of-use/,Terms of Use,9,homepage_latest,20261012014826
+210,doi.org,privacy,https://www.doi.org/privacy-policy/,https://www.doi.org/w3c/privacy.html,Privacy Policy,8,homepage_2022,20220701231048
+213,oracle.com,privacy,https://www.oracle.com/security/cloud-security/,https://www.oracle.com/security/cloud-security/privacy/,Privacy,6,homepage_2022,20220702015207
+213,oracle.com,privacy,https://www.oracle.com/legal/privacy/,https://www.oracle.com/legal/privacy/,Privacy,6,homepage_latest,20261027162910
+213,oracle.com,terms,https://www.oracle.com/legal/terms/,,,,path_probe,
+218,bbc.com,terms,https://www.bbc.co.uk/usingthebbc/terms,https://www.bbc.co.uk/usingthebbc/terms/,Terms of Use,8,homepage_2022,20220702000016
+218,bbc.com,privacy,https://www.bbc.co.uk/usingthebbc/privacy,https://www.bbc.co.uk/usingthebbc/privacy/,Privacy Policy,8,homepage_2022,20220702000016
+218,bbc.com,terms,https://www.bbc.com/pages/terms-of-use,https://www.bbc.com/pages/terms-of-use,Terms of Use,9,homepage_latest,20261107135833
+218,bbc.com,privacy,https://www.bbc.com/pages/privacy-policy,https://www.bbc.com/pages/privacy-policy,Privacy Policy,9,homepage_latest,20261107135833
+217,omtrdc.net,privacy,https://www.adobe.com/privacy/policy.html,https://www.adobe.com/privacy/policy.html,Adobe Privacy Policy,8,homepage_2022,20220206214507
+217,omtrdc.net,privacy,https://www.adobe.com/privacy/experience-cloud.html,https://www.adobe.com/privacy/experience-cloud.html,What types of solutions does Adobe provide as part of the Adobe Experience Cloud?,3,homepage_latest,20231119115712
+219,criteo.com,privacy,https://www.criteo.com/corporate-privacy-notice/,https://www.criteo.com/privacy/corporate-privacy-policy/,Website Privacy Policy,9,homepage_2022,20220701232319
+219,criteo.com,terms,https://www.criteo.com/terms-and-conditions/,http://www.criteo.com/terms-and-conditions/,Terms and Conditions,8,homepage_2022,20220701232319
+221,licdn.com,terms,https://www.linkedin.com/legal/user-agreement,https://www.linkedin.com/legal/user-agreement?trk=homepage-jobseeker_footer-user-agreement,User Agreement,9,homepage_2022,20220319032755
+221,licdn.com,privacy,https://www.linkedin.com/legal/privacy-policy,https://www.linkedin.com/legal/privacy-policy?trk=homepage-jobseeker_footer-privacy-policy,Privacy Policy,9,homepage_2022,20220319032755
+223,arubanetworks.com,privacy,https://www.hpe.com/us/en/legal/privacy.html,https://www.hpe.com/us/en/legal/privacy.html,Privacy policy,8,homepage_2022,20220701173157
+223,arubanetworks.com,terms,https://www.arubanetworks.com/terms-of-service/,https://www.arubanetworks.com/terms-of-service/,Terms of service,9,homepage_2022,20220701173157
+223,arubanetworks.com,terms,https://www.hpe.com/us/en/about/legal/terms-of-use.html,https://www.hpe.com/us/en/about/legal/terms-of-use.html,Terms of Use,9,homepage_latest,20260929143156
+222,xiaomi.com,privacy,https://www.mi.com/us/about/privacy,https://www.mi.com/us/about/privacy/,Privacy Policy,8,homepage_2022,20220702004108
+226,publicnode.com,terms,https://www.publicnode.com/terms,https://www.publicnode.com/terms,Terms of service,8,homepage_latest,20261005114304
+226,publicnode.com,privacy,https://www.publicnode.com/privacy,https://www.publicnode.com/privacy,Privacy policy,8,homepage_latest,20261005114304
+228,hcaptcha.com,privacy,https://www.hcaptcha.com/privacy,https://www.hcaptcha.com/privacy,Privacy,6,homepage_2022,20220701233651
+228,hcaptcha.com,terms,https://www.hcaptcha.com/terms,https://www.hcaptcha.com/terms,Terms,6,homepage_2022,20220701233651
+227,wikimedia.org,terms,https://foundation.wikimedia.org/wiki/Terms_of_Use,https://foundation.wikimedia.org/wiki/Terms_of_Use,Terms of use,9,homepage_2022,20220702002822
+227,wikimedia.org,privacy,https://foundation.wikimedia.org/wiki/Privacy_policy,https://foundation.wikimedia.org/wiki/Privacy_policy,Privacy policy,9,homepage_2022,20220702002822
+227,wikimedia.org,terms,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use,Terms of Use,9,homepage_latest,20261104201201
+227,wikimedia.org,privacy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy,https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy,Privacy Policy,9,homepage_latest,20261104201201
+229,forbes.com,privacy,https://www.forbes.com/privacy/english/,https://www.forbes.com/fdc/privacy.html,Privacy Statement,8,homepage_2022,20220702000501
+229,forbes.com,terms,https://www.forbes.com/terms-and-conditions/,https://www.forbes.com/terms,Terms and Conditions,8,homepage_2022,20220702000501
+233,sciencedirect.com,privacy,https://www.elsevier.com/legal/privacy-policy,https://www.elsevier.com/legal/privacy-policy,Privacy policy,9,homepage_2022,20220701192039
+233,sciencedirect.com,terms,https://www.elsevier.com/legal/elsevier-website-terms-and-conditions,https://www.elsevier.com/legal/elsevier-website-terms-and-conditions,Terms and conditions,6,homepage_2022,20220701192039
+232,twitch.tv,terms,https://www.twitch.tv/tos,,,,path_probe,
+232,twitch.tv,privacy,https://www.twitch.tv/privacy,,,,path_probe,
+234,researchgate.net,terms,https://www.researchgate.net/terms-of-service,https://www.researchgate.net/terms-of-service,Terms,7,homepage_2022,20220702000411
+234,researchgate.net,privacy,https://www.researchgate.net/privacy-policy,https://www.researchgate.net/privacy-policy,Privacy,7,homepage_2022,20220702000411
+231,skyhigh.cloud,privacy,https://www.afternic.com/?origin=dancom,https://dan.com/privacy,Privacy policy,8,homepage_2022,20230429221921
+231,skyhigh.cloud,terms,https://www.afternic.com/?origin=dancom,https://dan.com/terms_of_use,Terms of use,9,homepage_2022,20230429221921
+231,skyhigh.cloud,privacy,https://www.skyhighsecurity.com/about/privacy.html,https://www.skyhighsecurity.com/about/privacy.html,Privacy Notice,8,homepage_latest,20250315182050
+231,skyhigh.cloud,terms,https://www.skyhighsecurity.com/about/terms-of-service.html,https://www.skyhighsecurity.com/about/terms-of-service.html,Terms of Service,9,homepage_latest,20250315182050
+236,applovin.com,terms,https://legal.applovin.com/terms/,https://www.applovin.com/terms,Terms of Use,8,homepage_2022,20220702222051
+236,applovin.com,privacy,https://www.applovin.com/en,https://www.applovin.com/privacy,Privacy,6,homepage_2022,20220702222051
+238,weather.com,terms,https://trust.weather.com/privacy/terms-of-use,https://trust.weather.com/privacy/terms-of-use,Terms of Use,9,homepage_latest,20261107110132
+238,weather.com,privacy,https://trust.weather.com/privacy/privacy-policy,https://trust.weather.com/privacy/privacy-policy,Privacy Policy,9,homepage_latest,20261107110132
+239,roku.com,privacy,https://docs.roku.com/published/userprivacypolicy/en/us,https://docs.roku.com/doc/userprivacypolicy/en-us,Privacy policy,9,homepage_latest,20261106133929
+239,roku.com,terms,https://docs.roku.com/published/tos/en/us,https://docs.roku.com/doc/tos/en-us,Terms of use,8,homepage_latest,20261106133929
+235,mit.edu,privacy,https://web.mit.edu/privacy/,https://web.mit.edu/privacy,Privacy,6,homepage_2022,20220701234108
+235,mit.edu,privacy,https://www.mit.edu/privacy/,https://www.mit.edu/privacy,Privacy,6,homepage_latest,20261103142914
+240,bbc.co.uk,terms,https://www.bbc.co.uk/usingthebbc/terms,https://www.bbc.co.uk/usingthebbc/terms,Terms of Use,8,homepage_2022,20220702000010
+240,bbc.co.uk,privacy,https://www.bbc.co.uk/usingthebbc/privacy,https://www.bbc.co.uk/usingthebbc/privacy,Privacy Policy,8,homepage_2022,20220702000010
+240,bbc.co.uk,privacy,https://www.bbc.com/usingthebbc/privacy,https://www.bbc.com/usingthebbc/privacy,Privacy Policy,8,homepage_latest,20261107133104
+237,nist.gov,privacy,https://www.nist.gov/admr/oism/site-privacy,https://www.nist.gov/privacy-policy,Site Privacy,7,homepage_2022,20220702003625
+242,namecheap.com,privacy,https://www.namecheap.com/legal/general/privacy-policy/,https://www.namecheap.com/legal/general/privacy-policy/,Privacy Policy,9,homepage_2022,20220702040444
+242,namecheap.com,terms,https://www.namecheap.com/legal/,https://www.namecheap.com/legal/,Terms and Conditions,6,homepage_2022,20220702040444
+244,cpanel.net,privacy,https://www.cpanel.net/legal-notices/,https://cpanel.net/privacy-policy/,Privacy Policy,9,homepage_2022,20220702045404
+244,cpanel.net,terms,https://www.cpanel.net/legal-notices/,https://www.cpanel.net/legal-notices/,Terms of Use,5,homepage_latest,20261106051137
+246,amplitude.com,terms,https://amplitude.com/terms,https://amplitude.com/terms,Terms of Use,8,homepage_2022,20220702023806
+246,amplitude.com,privacy,https://amplitude.com/privacy,https://amplitude.com/privacy,Privacy Statement,8,homepage_2022,20220702023806
+251,cisco.com,terms,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,Terms & Conditions,8,homepage_2022,20220701125817
+251,cisco.com,privacy,https://www.cisco.com/site/us/en/about/legal/privacy.html,https://www.cisco.com/c/en/us/about/legal/privacy-full.html,Privacy Statement,8,homepage_2022,20220701125817
+254,adtrafficquality.google,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms,6,homepage_latest,20251209105346
+254,adtrafficquality.google,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy,6,homepage_latest,20251209105346
+249,t.co,terms,https://x.com/en/tos,https://twitter.com/tos,TOS,3,homepage_2022,20220702003511
+249,t.co,privacy,https://twitter.com/privacy,https://twitter.com/privacy,Privacy,6,homepage_2022,20220702003511
+249,t.co,privacy,https://x.com/en/privacy,https://x.com/privacy,Privacy,6,homepage_latest,20261107133411
+259,dnsmadeeasy.com,privacy,https://privacy.digicert.com/policies/en/?name=dns-network-security-products-privacy-notice,https://privacy.digicert.com/policies/en/?name=dns-network-security-products-privacy-notice,Privacy Policy,5,homepage_latest,20261002070825
+259,dnsmadeeasy.com,terms,https://dnsmadeeasy.com/terms-of-use,,,,path_probe,
+260,hubspot.com,privacy,https://legal.hubspot.com/privacy-policy,https://legal.hubspot.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702001225
+263,imdb.com,terms,https://www.imdb.com/conditions?ref_=ft_cou,https://www.imdb.com/conditions?ref_=ft_cou,Conditions of Use,5,homepage_2022,20220702003732
+263,imdb.com,privacy,https://www.imdb.com/privacy,https://www.imdb.com/privacy?ref_=ft_pvc,Privacy Policy,8,homepage_2022,20220702003732
+267,who.int,terms,https://www.who.int/about/policies/terms-of-use,https://www.who.int/redirect-pages/footer/who-policies/terms-of-use,Terms of use,9,homepage_2022,20220701224052
+267,who.int,privacy,https://www.who.int/about/policies/privacy,https://www.who.int/about/policies/privacy,Privacy Legal Notice,6,homepage_2022,20220701224052
+268,googleblog.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy,6,homepage_2022,20220724215819
+268,googleblog.com,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms,6,homepage_2022,20220724215819
+271,brave.com,privacy,https://brave.com/privacy/browser/,https://brave.com/privacy/browser/,Brave's privacy policy,8,homepage_2022,20220701232014
+271,brave.com,terms,https://brave.com/terms-of-use/,https://brave.com/terms-of-use/,Terms of use,9,homepage_2022,20220701232014
+271,brave.com,privacy,https://brave.com/privacy-updates/,https://brave.com/privacy-updates/,Privacy updates,6,homepage_latest,20261106172034
+275,wixsite.com,terms,https://www.wix.com/about/terms-of-use,https://www.wix.com/about/terms-of-use,Terms of Use,9,homepage_2022,20220404114404
+275,wixsite.com,privacy,https://www.wix.com/about/privacy,https://www.wix.com/about/privacy,Privacy Policy,8,homepage_2022,20220404114404
+277,ibm.com,terms,https://www.ibm.com/legal/terms,,,,path_probe,
+277,ibm.com,privacy,https://www.ibm.com/privacy,,,,path_probe,
+282,datadoghq.com,terms,https://www.datadoghq.com/legal/terms/,https://www.datadoghq.com/legal/terms/,Terms,6,homepage_2022,20220701232738
+282,datadoghq.com,privacy,https://www.datadoghq.com/legal/privacy/,https://www.datadoghq.com/legal/privacy/,Privacy,6,homepage_2022,20220701232738
+282,datadoghq.com,privacy,https://www.datadoghq.com/privacy/,https://www.datadoghq.com/privacy/,Privacy Center,6,homepage_latest,20261104024224
+283,reuters.com,terms,https://www.reuters.com/info-pages/terms-of-use/,https://www.reuters.com/info-pages/terms-of-use/,Terms of Use,9,homepage_2022,20220702000246
+283,reuters.com,privacy,https://www.thomsonreuters.com/en/privacy-statement,https://www.thomsonreuters.com/en/privacy-statement.html,Privacy,7,homepage_2022,20220702000246
+284,launchpad.net,terms,https://ubuntu.com/docs/launchpad/user/reference/launchpad-and-community/legal/launchpad-policies/,https://launchpad.net/legal,Terms of use,6,homepage_2022,20220701110445
+284,launchpad.net,privacy,https://canonical.com/legal/data-privacy,https://www.ubuntu.com/legal/dataprivacy,Data privacy,6,homepage_2022,20220701110445
+284,launchpad.net,terms,https://canonical.com/legal/launchpad-terms-of-service,https://ubuntu.com/legal/launchpad-terms-of-service,Terms of use,9,homepage_latest,20261027210920
+285,hp.com,privacy,https://www.hp.com/us-en/privacy/privacy-central.html,https://www.hp.com/us-en/privacy/privacy-central.html,Privacy,6,homepage_2022,20220701220601
+285,hp.com,terms,https://www.hp.com/us-en/terms-of-use.html,https://www.hp.com/us-en/terms-of-use.html,Terms of use,9,homepage_2022,20220701220601
+288,gamepass.com,terms,https://www.microsoft.com/en-us/store/b/terms-of-sale,https://www.microsoft.com/en-us/storedocs/terms-of-sale?rtc=1,Microsoft Store Terms of Sale,6,homepage_2022,20220812141821
+288,gamepass.com,privacy,https://go.microsoft.com/fwlink/?LinkId=521839,https://go.microsoft.com/fwlink/?LinkId=521839,Privacy,3,homepage_2022,20220812141821
+290,telegram.me,privacy,https://telegram.org/privacy,https://telegram.org/privacy,Privacy,6,homepage_latest,20261027104307
+290,telegram.me,terms,https://telegram.me/Terms,,,,path_probe,
+293,nature.com,privacy,https://www.nature.com/info/privacy,https://www.nature.com/info/privacy,Privacy Policy,8,homepage_latest,20261105152536
+293,nature.com,terms,https://www.nature.com/info/terms-and-conditions,https://www.nature.com/info/terms-and-conditions,Terms & Conditions,8,homepage_latest,20261105152536
+296,ip-api.com,terms,https://ip-api.com/docs/legal,https://ip-api.com/docs/legal,Terms and Policies,4,homepage_2022,20220704080509
+298,steampowered.com,privacy,https://store.steampowered.com/privacy_agreement/,https://store.steampowered.com/privacy_agreement/?snr=1_44_44_,Privacy Policy,8,homepage_2022,20220701235624
+302,salesforce.com,terms,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,,4,homepage_latest,20261106175553
+302,salesforce.com,privacy,https://www.salesforce.com/company/legal/privacy/,https://www.salesforce.com/company/legal/privacy/,,3,homepage_latest,20261106175553
+304,slack.com,privacy,https://slack.com/trust/privacy/privacy-policy,https://slack.com/trust/privacy/privacy-policy,Privacy,7,homepage_2022,20220701233908
+304,slack.com,terms,https://slack.com/legal,https://slack.com/legal,Terms,4,homepage_2022,20220701233908
+306,launchdarkly.com,privacy,https://launchdarkly.com/policies/privacy/,https://launchdarkly.com/policies/privacy/,Privacy Policy,8,homepage_latest,20261027160659
+306,launchdarkly.com,terms,https://launchdarkly.com/terms-of-service/,https://launchdarkly.com/terms-of-service/,Terms & Conditions,9,homepage_latest,20261027160659
+307,springer.com,terms,https://www.springer.com/gp/standard-terms-and-conditions-of-business,https://www.springer.com/terms-conditions,General Terms & Conditions,8,homepage_2022,20220702021120
+307,springer.com,privacy,https://link.springer.com/privacystatement,https://www.springer.com/gp/privacy-policy,Privacy Policy,9,homepage_2022,20220702021120
+309,alibaba.com,privacy,https://rulechannel.alibaba.com/icbu?ruleId=2034&cId=1306&type=detail#/rule/detail?cId=1306&ruleId=2034,https://rule.alibaba.com/rule/detail/2034.htm,Privacy Policy,5,homepage_2022,20220701232702
+309,alibaba.com,terms,https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2041&cId=1307#/rule/detail?cId=1307&ruleId=2041,http://rule.alibaba.com/rule/detail/2041.htm,Terms of Use,5,homepage_2022,20220701232702
+314,avast.com,privacy,https://www.avast.com/en-us/privacy-policy,https://www.avast.com/en-us/privacy-policy,Privacy policy,9,homepage_2022,20220701231252
+314,avast.com,terms,https://www.avast.com/legal,,,,path_probe,
+317,vungle.com,privacy,https://liftoff.ai/privacy-policy/,https://vungle.com/privacy,Privacy Policy,8,homepage_2022,20220627000350
+317,vungle.com,terms,https://liftoff.ai/terms-of-service/,https://liftoff.ai/terms-of-service/,Terms,7,homepage_latest,20261012013643
+320,autodesk.com,privacy,https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement,https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement,Privacy,7,homepage_2022,20220701220838
+320,autodesk.com,terms,https://www.autodesk.com/company/legal-notices-trademarks,https://www.autodesk.com/company/legal-notices-trademarks,Terms of use,5,homepage_2022,20220701220838
+323,grammarly.com,privacy,https://superhuman.com/legal/privacy-policy,https://www.grammarly.com/privacy-policy,Privacy Policy,9,homepage_2022,20220701235213
+323,grammarly.com,terms,https://www.grammarly.com/terms,https://www.grammarly.com/terms,Terms of Service,8,homepage_2022,20220701235213
+322,pubmatic.com,privacy,https://pubmatic.com/legal/privacy/,https://pubmatic.com/legal/privacy/,Privacy,6,homepage_2022,20220702014145
+322,pubmatic.com,terms,https://pubmatic.com/legal/,,,,path_probe,
+324,debian.org,terms,https://www.debian.org/license,https://www.debian.org/license,license terms,3,homepage_2022,20220701233018
+324,debian.org,privacy,https://www.debian.org/legal/privacy,,,,path_probe,
+326,harvard.edu,privacy,https://www.harvard.edu/privacy-statement/,https://www.harvard.edu/privacy-statement/,Privacy Statement,9,homepage_2022,20220702000014
+326,harvard.edu,privacy,https://privsec.harvard.edu/harvard-university-umbrella-privacy-statement,https://privsec.harvard.edu/harvard-university-umbrella-privacy-statement,Privacy Statement,9,homepage_latest,20261105015330
+325,weibo.com,terms,https://weibo.com/legal,,,,path_probe,
+332,onelink.me,privacy,https://www.appsflyer.com/legal/privacy-policy/,https://www.appsflyer.com/legal/privacy-policy/,Privacy policy,9,homepage_2022,20220701232736
+332,onelink.me,terms,https://www.appsflyer.com/legal/terms-of-use/,https://www.appsflyer.com/legal/terms-of-use/,Terms,7,homepage_2022,20220701232736
+332,onelink.me,terms,https://www.appsflyer.com/legal/site-terms/,https://www.appsflyer.com/legal/site-terms/,Terms,4,homepage_latest,20260924143121
+330,amazon.co.uk,privacy,https://www.amazon.co.uk/PRIVACY,,,,path_probe,
+334,etsy.com,terms,https://www.etsy.com/legal/terms-of-use,https://www.etsy.com/legal/terms-of-use?ref=ftr,Terms of Use,9,homepage_2022,20220701234142
+334,etsy.com,privacy,https://www.etsy.com/legal/privacy,https://www.etsy.com/legal/privacy,Privacy Policy,8,homepage_2022,20220701234142
+334,etsy.com,terms,https://www.etsy.com/legal/terms-of-use/,https://www.etsy.com/legal/terms-of-use/,Terms of Use,9,homepage_latest,20261107191403
+331,rubiconproject.com,privacy,https://www.magnite.com/legal/,https://www.magnite.com/website-privacy-policy/,privacy policy,9,homepage_2022,20220702000653
+331,rubiconproject.com,privacy,https://www.magnite.com/legal/advertising-platform-privacy-policy/,https://www.magnite.com/legal/advertising-platform-privacy-policy/,Advertising Platform Privacy Policy,9,homepage_latest,20261016015628
+331,rubiconproject.com,terms,https://www.rubiconproject.com/legal/,,,,path_probe,
+333,ok.ru,terms,https://ok.ru/legal,,,,path_probe,
+333,ok.ru,privacy,https://ok.ru/privacy,,,,path_probe,
+337,unisys.com,privacy,https://www.unisys.com/unisys-legal/privacy/,https://www.unisys.com/unisys-legal/privacy/,Privacy Notice,8,homepage_2022,20220701161648
+337,unisys.com,terms,https://www.unisys.com/unisys-legal/terms-of-use/,https://www.unisys.com/unisys-legal/terms-of-use/,Terms of Use,9,homepage_2022,20220701161648
+335,anthropic.com,terms,https://www.anthropic.com/legal,,,,path_probe,
+335,anthropic.com,privacy,https://www.anthropic.com/legal/privacy,,,,path_probe,
+336,mi.com,privacy,https://www.mi.com/us/about/privacy,https://www.mi.com/us/about/privacy/,Privacy Policy,8,homepage_2022,20220702004108
+341,zendesk.com,privacy,https://www.zendesk.com/company/agreements-and-terms/privacy-notice/,https://www.zendesk.com/company/agreements-and-terms/privacy-policy/,Zendesk Privacy Notice,9,homepage_2022,20220701235730
+341,zendesk.com,terms,https://www.zendesk.com/company/agreements-and-terms/terms-of-use/,https://www.zendesk.com/company/agreements-and-terms/terms-of-use/,Terms of Use,9,homepage_2022,20220701235730
+342,php.net,privacy,https://www.php.net/privacy.php,https://www.php.net/privacy.php,Privacy policy,8,homepage_2022,20220702005657
+343,smartadserver.com,privacy,http://www.smartadserver.com/privacy-policy,,,,path_probe,
+344,naver.com,privacy,https://policy.naver.com/policy/privacy.html,https://www.naver.com/policy/privacy.html,개인정보처리방침,3,homepage_2022,20220701193047
+350,ea.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Google Privacy Policy,8,homepage_2022,20220701085638
+350,ea.com,terms,https://www.ea.com/legal/user-agreement,https://www.ea.com/terms-of-service,User Agreement,9,homepage_2022,20220701085638
+350,ea.com,terms,https://www.ea.com/legal/ea-play-terms,https://www.ea.com/legal/ea-play-terms,EA PLAY TERMS,4,homepage_latest,20261107083456
+349,manulife-sinochem.com,privacy,https://www.manulife-sinochem.com/privacy,https://www.manulife-sinochem.com/privacy,个人信息和隐私保护协议,3,homepage_2022,20220626001527
+351,tp-link.com,privacy,https://www.tp-link.com/privacy,https://www.tp-link.com/privacy,Privacy Policy,8,homepage_2022,20220701214536
+351,tp-link.com,privacy,https://privacy.tp-link.com/web/official/privacy-policy,https://privacy.tp-link.com/web/official/privacy-policy,Privacy Policy,9,homepage_latest,20261005071532
+353,trustpilot.com,privacy,https://corporate.trustpilot.com/legal/for-reviewers/privacy-policy-end-user/jun-2026,https://legal.trustpilot.com/end-user-privacy-terms,Privacy Policy,8,homepage_2022,20220701180243
+353,trustpilot.com,terms,https://corporate.trustpilot.com/legal/for-reviewers/terms-of-use-for-consumers/oct-2026,https://legal.trustpilot.com/for-reviewers/end-user-terms-and-conditions,Terms & Conditions,5,homepage_2022,20220701180243
+355,espn.com,terms,https://disneytermsofuse.com/english/,https://disneytermsofuse.com/english/,Terms of Use,5,homepage_2022,20220702003750
+355,espn.com,privacy,https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/,https://disneyprivacycenter.com/kids-privacy-policy/english/,Children's Online Privacy Policy,9,homepage_2022,20220702003750
+356,branch.io,privacy,https://legal.branch.io/saas/privacy-policy/,https://branch.io/policies/privacy-policy/,Privacy,7,homepage_2022,20220702003627
+356,branch.io,terms,https://legal.branch.io/,https://branch.io/policies/,Terms,3,homepage_2022,20220702003627
+356,branch.io,terms,https://legal.branch.io/website-terms-of-service/,https://legal.branch.io/website-terms-of-service/,Terms of Service,9,homepage_latest,20261026095355
+357,weebly.com,terms,https://www.weebly.com/ca/terms-of-service,https://www.weebly.com/terms-of-service/,Terms,7,homepage_2022,20220702000324
+357,weebly.com,privacy,https://www.weebly.com/privacy,https://www.weebly.com/privacy/,Privacy Policy,8,homepage_2022,20220702000324
+357,weebly.com,privacy,https://squareup.com/ca/en/legal/general/privacy,https://squareup.com/privacy,Privacy Policy,8,homepage_latest,20261103105659
+361,dell.com,privacy,https://www.dell.com/en-us,https://www.dell.com/learn/au/en/aucorp1/policies-privacy,Privacy Statement,8,homepage_2022,20220702000104
+361,dell.com,terms,https://www.dell.com/en-au/lp/legal/terms-of-sale,https://www.dell.com/learn/au/en/aucorp1/terms-of-sale,Terms of Sale,6,homepage_2022,20220702000104
+361,dell.com,privacy,https://www.dell.com/pt-br/legal/lp/policies-privacy,https://www.dell.com/pt-br/legal/lp/policies-privacy,Declaração de Privacidade,3,homepage_latest,20261106175025
+361,dell.com,terms,https://www.dell.com/pt-br/legal/lp/site-terms-of-use-copyright,https://www.dell.com/pt-br/legal/lp/site-terms-of-use-copyright,Copyright © 2026 Dell Inc.,4,homepage_latest,20261106175025
+360,checkpoint.com,privacy,https://www.checkpoint.com/privacy/,https://www.checkpoint.com/privacy/,Privacy Policy,8,homepage_2022,20220702050440
+360,checkpoint.com,terms,https://www.checkpoint.com/legal/,,,,path_probe,
+362,tradingview.com,terms,https://www.tradingview.com/policies/,https://www.tradingview.com/policies/,Terms of use,5,homepage_2022,20220702010601
+362,tradingview.com,privacy,https://www.tradingview.com/privacy-policy/,https://www.tradingview.com/privacy-policy/,Privacy policy,9,homepage_2022,20220702010601
+363,nvidia.com,privacy,https://www.nvidia.com/en-us/about-nvidia/privacy-policy/,https://www.nvidia.com/en-us/about-nvidia/privacy-policy/,Privacy Policy,9,homepage_2022,20220701171402
+363,nvidia.com,terms,https://www.nvidia.com/en-us/about-nvidia/terms-of-service/,https://www.nvidia.com/en-us/about-nvidia/terms-of-service/,Terms of Service,9,homepage_latest,20261105183250
+366,cm.com,privacy,https://www.cm.com/en-gb/app/legal/cmcom-terms-and-conditions/,https://www.cm.com/app/legal/cm-com/privacy-policy/,Privacy Policy,9,homepage_2022,20220701225031
+366,cm.com,terms,https://www.cm.com/app/legal/companies/,https://www.cm.com/app/legal/companies/,Terms and conditions,6,homepage_2022,20220701225031
+366,cm.com,privacy,https://www.cm.com/app/legal/miscellaneous/privacy-statement/,https://www.cm.com/app/legal/miscellaneous/privacy-statement/,Privacy Statement,9,homepage_latest,20261019113616
+366,cm.com,terms,https://www.cm.com/app/legal/cmcom-terms-and-conditions/,https://www.cm.com/app/legal/cmcom-terms-and-conditions/,Terms and conditions,6,homepage_latest,20261019113616
+367,paloaltonetworks.com,terms,https://www.paloaltonetworks.com/legal-notices/terms-of-use,https://www.paloaltonetworks.com/legal-notices/terms-of-use,Terms of Use,9,homepage_2022,20220701191345
+367,paloaltonetworks.com,privacy,https://www.paloaltonetworks.com/legal-notices/privacy,https://www.paloaltonetworks.com/legal-notices/privacy,Privacy Statement,8,homepage_2022,20220701191345
+364,cdc.gov,privacy,https://www.cdc.gov/other/privacy.html,https://www.cdc.gov/other/privacy.html,Privacy,6,homepage_2022,20220701235830
+370,globo.com,privacy,https://privacidade.globo.com/privacy-policy/,https://privacidade.globo.com/privacy-policy/,Política de privacidade,4,homepage_2022,20220702000043
+369,google.cn,terms,https://www.google.cn/policies/terms/,,,,path_probe,
+369,google.cn,privacy,http://www.google.cn/policies/privacy/,,,,path_probe,
+371,worldnic.com,privacy,http://legal.web.com/Document/Get/PrivacyPolicy,http://legal.web.com/Document/Get/PrivacyPolicy,Privacy Policy,9,homepage_2022,20160429232808
+371,worldnic.com,terms,http://legal.web.com/Document/Get/TermsOfUse,http://legal.web.com/Document/Get/TermsOfUse,Terms of Use,9,homepage_2022,20160429232808
+372,wsj.com,privacy,https://www.dowjones.com/privacy-notice/,https://www.dowjones.com/privacy-notice/?mod=WSJ,Privacy Notice,9,homepage_2022,20220701232720
+372,wsj.com,terms,https://www.dowjones.com/terms-of-use/,https://www.wsj.com/policy/subscriber-agreement,Subscriber Agreement & Terms of Use,5,homepage_2022,20220701232720
+373,dotomi.com,privacy,https://legal.epsilon.com/global-privacy-policies,https://legal.epsilon.com/global-privacy-policies/,Privacy Policy,8,homepage_latest,20261012170022
+373,dotomi.com,terms,https://legal.epsilon.com/us/terms-and-conditions,https://legal.epsilon.com/us/terms-and-conditions/,Terms & Conditions,8,homepage_latest,20261012170022
+376,gitlab.com,terms,https://about.gitlab.com/terms/,https://about.gitlab.com/terms/,Terms of Use,8,homepage_2022,20220701225751
+376,gitlab.com,privacy,https://about.gitlab.com/privacy/,https://about.gitlab.com/privacy/,Privacy Policy (updated 6.10.22),8,homepage_2022,20220701225751
+374,opendns.com,privacy,https://www.cisco.com/site/us/en/about/legal/privacy.html,http://www.cisco.com/c/en/us/about/legal/privacy-full.html,Cisco Online Privacy Statement,8,homepage_2022,20220702010255
+374,opendns.com,privacy,https://www.opendns.com/privacy-policy/,https://www.opendns.com/privacy-policy/,Cisco Online Privacy Statement,9,homepage_latest,20261107053530
+378,tagomi.com,terms,https://www.coinbase.com/en-ca/legal/user_agreement,https://www.coinbase.com/legal/user_agreement,Terms & Conditions,9,homepage_latest,20260402222128
+378,tagomi.com,privacy,https://www.coinbase.com/legal/privacy,https://www.coinbase.com/legal/privacy,Privacy,6,homepage_latest,20260402222128
+379,nasa.gov,privacy,https://www.nasa.gov/privacy/,https://www.nasa.gov/nasa-web-privacy-policy-and-important-notices/,Privacy Policy,9,homepage_latest,20261106114322
+383,issuu.com,terms,https://issuu.com/legal/terms,https://issuu.com/legal/terms,Terms,6,homepage_2022,20220701235954
+383,issuu.com,privacy,https://issuu.com/legal/privacy,https://issuu.com/legal/privacy,Privacy,6,homepage_2022,20220701235954
+384,stanford.edu,terms,https://www.stanford.edu/terms,https://www.stanford.edu/site/terms/,Terms of Use,8,homepage_2022,20220702005136
+384,stanford.edu,privacy,https://www.stanford.edu/privacy,https://www.stanford.edu/site/privacy,Privacy,6,homepage_2022,20220702005136
+388,bloomberg.com,terms,https://www.bloomberg.com/notices/tos,https://www.bloomberg.com/notices/tos,Terms of Service,8,homepage_2022,20220814132223
+390,washingtonpost.com,privacy,https://www.washingtonpost.com/privacy-policy/,https://www.washingtonpost.com/privacy-policy/,Privacy Policy,9,homepage_latest,20261108024335
+390,washingtonpost.com,terms,https://www.washingtonpost.com/terms-of-service/,https://www.washingtonpost.com/terms-of-service/,Terms of Service,9,homepage_latest,20261108024335
+391,live-video.net,privacy,https://aws.amazon.com/privacy/,https://aws.amazon.com/privacy/,Privacy,6,homepage_latest,20261027024310
+391,live-video.net,terms,https://aws.amazon.com/terms/,https://aws.amazon.com/terms/,Site Terms,6,homepage_latest,20261027024310
+394,okta.com,privacy,https://www.okta.com/legal/privacy-policy/,https://www.okta.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220702042335
+394,okta.com,terms,https://www.okta.com/legal/terms-of-service/,https://www.okta.com/terms-of-service/,Site Terms,7,homepage_latest,20261027121831
+393,bsky.app,privacy,https://bsky.app/privacy,,,,path_probe,
+396,plesk.com,privacy,https://www.plesk.com/legal/#privacy-policy,https://www.plesk.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702021248
+396,plesk.com,terms,https://www.plesk.com/legal/#terms-of-use,https://www.plesk.com/terms-of-use/,Terms of Use,9,homepage_2022,20220702021248
+396,plesk.com,privacy,https://www.plesk.com/legal/,https://www.plesk.com/legal/,Privacy Policy,5,homepage_latest,20261102081323
+398,cookiedatabase.org,privacy,https://complianz.io./,https://complianz.io,Complianz Privacy Suite,3,homepage_2022,20220702030454
+398,cookiedatabase.org,terms,https://cookiedatabase.org/terms-of-use/,,,,path_probe,
+399,name.com,privacy,https://www.name.com/privacy-policy,https://www.name.com/privacy-policy,Privacy Policy,9,homepage_2022,20220701231124
+402,go.com,terms,https://disneytermsofuse.com/,https://disneytermsofuse.com/,Terms of Use,5,homepage_2022,20220702031044
+402,go.com,privacy,https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/,https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/,Children's Online Privacy Policy,9,homepage_2022,20220702031044
+405,wps.com,privacy,https://www.wps.com/privacy-policy/,https://www.wps.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220702071505
+405,wps.com,terms,https://www.wps.com/terms-of-service/,,,,path_probe,
+407,yandex.com,terms,https://yandex.com/legal/,,,,path_probe,
+403,amazontrust.com,privacy,https://aws.amazon.com/privacy/,https://aws.amazon.com/privacy/,Privacy Policy,8,homepage_2022,20220707111330
+409,sberbank.ru,privacy,https://www.sberbank.ru/privacy,,,,path_probe,
+416,calendly.com,privacy,https://calendly.com/legal/privacy-notice,https://calendly.com/privacy,Privacy,6,homepage_2022,20220701210538
+416,calendly.com,terms,https://calendly.com/legal/customer-terms-conditions,https://calendly.com/terms,Terms and Conditions,8,homepage_2022,20220701210538
+415,dynatrace.com,terms,https://www.dynatrace.com/company/trust-center/terms-of-use/,https://www.dynatrace.com/company/trust-center/terms-of-use/,Terms of use,9,homepage_2022,20220702050132
+417,claude.ai,terms,https://claude.ai/terms-of-service,,,,path_probe,
+417,claude.ai,privacy,https://claude.ai/privacy,,,,path_probe,
+419,elasticbeanstalk.com,privacy,https://aws.amazon.com/privacy/,https://aws.amazon.com/privacy/?nc1=f_pr,Privacy,6,homepage_2022,20220701233017
+419,elasticbeanstalk.com,terms,https://aws.amazon.com/terms/,https://aws.amazon.com/terms/?nc1=f_pr,Site Terms,6,homepage_2022,20220701233017
+419,elasticbeanstalk.com,terms,https://aws.amazon.com/events/terms/,https://aws.amazon.com/events/terms/?nc1=f_cc,Event Terms & Conditions,8,homepage_latest,20260414004533
+420,xboxlive.com,terms,https://tos.ea.com/legalapp/eaplay/US/en/PC/,https://www.ea.com/ea-play/terms,https://www.ea.com/ea-play/terms,6,homepage_2022,20220702035255
+420,xboxlive.com,privacy,https://go.microsoft.com/fwlink/?LinkId=521839,https://go.microsoft.com/fwlink/?LinkId=521839,Privacy,3,homepage_2022,20220702035255
+423,duckduckgo.com,privacy,https://duckduckgo.com/privacy,https://duckduckgo.com/privacy,Privacy Policy,8,homepage_latest,20261107101950
+423,duckduckgo.com,terms,https://duckduckgo.com/terms,https://duckduckgo.com/terms,Terms of Service,8,homepage_latest,20261107101950
+422,atlassian.net,privacy,https://www.atlassian.com/legal/privacy-policy,https://www.atlassian.com/legal/privacy-policy,Privacy policy,9,homepage_latest,20261027205733
+422,atlassian.net,terms,https://www.atlassian.com/legal/atlassian-customer-agreement,https://www.atlassian.com/legal/cloud-terms-of-service,Terms,7,homepage_latest,20261027205733
+424,line.me,terms,https://terms.line.me/line_terms?lang=en,https://terms.line.me/line_terms/?lang=en,User Agreement,5,homepage_2022,20220702000408
+424,line.me,privacy,https://www.lycorp.co.jp/en/company/privacypolicy/,https://line.me/en/terms/policy/,Privacy Policy,5,homepage_2022,20220702000408
+425,expireddomains.com,terms,https://expireddomains.com/terms,https://expireddomains.com/terms,Terms of Service,8,homepage_latest,20261103083551
+425,expireddomains.com,privacy,https://expireddomains.com/privacy,https://expireddomains.com/privacy,Privacy Policy,8,homepage_latest,20261103083551
+427,indeed.com,privacy,https://hrtechprivacy.com/,https://hrtechprivacy.com/,Privacy Center,3,homepage_2022,20220701232713
+427,indeed.com,terms,https://www.indeed.com/legal?hl=en,https://www.indeed.com/legal?hl=en,Terms,4,homepage_2022,20220701232713
+429,substack.com,privacy,https://substack.com/privacy,https://substack.com/privacy,Privacy,6,homepage_2022,20220701233423
+429,substack.com,terms,https://substack.com/tos,https://substack.com/tos,Terms,6,homepage_2022,20220701233423
+430,aol.com,privacy,https://legal.yahoo.com/us/en/yahoo/privacy/index.html,https://legal.yahoo.com/us/en/yahoo/privacy/index.html,Privacy,6,homepage_2022,20220702000407
+430,aol.com,terms,https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html,https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html,Terms,6,homepage_2022,20220702000407
+430,aol.com,terms,https://legal.aol.com/terms/index.html,https://legal.aol.com/terms/index.html,Terms,6,homepage_latest,20261107072837
+430,aol.com,privacy,https://legal.aol.com/privacy/index.html,https://legal.aol.com/privacy/index.html,Privacy Policy,8,homepage_latest,20261107072837
+431,unsplash.com,terms,https://unsplash.com/terms,,,,path_probe,
+431,unsplash.com,privacy,https://unsplash.com/privacy,,,,path_probe,
+434,steamcommunity.com,privacy,https://store.steampowered.com/privacy_agreement/,http://store.steampowered.com/privacy_agreement/,Privacy Policy,8,homepage_2022,20220702000408
+437,temu.com,privacy,https://www.afternic.com/?origin=dancom,https://dan.com/privacy?utm_campaign=Parking&utm_medium=parking&utm_source=.com&utm_term=temu.com,Privacy policy,8,homepage_2022,20220707080745
+437,temu.com,terms,https://www.afternic.com/?origin=dancom,https://dan.com/terms_of_use?utm_campaign=Parking&utm_medium=parking&utm_source=.com&utm_term=temu.com,Terms of use,9,homepage_2022,20220707080745
+437,temu.com,privacy,https://www.temu.com/whychoosetemu.html,https://www.temu.com/whychoosetemu.html,"Why choose Temu? Secure privacy Safe payments Delivery guarantee , Open in new tab.",3,homepage_latest,20261108023402
+440,tiktokcdn-eu.com,terms,https://tokcount.com/terms-of-service,https://tokcount.com/terms-of-service,Terms of Service,9,homepage_2022,20211227155039
+440,tiktokcdn-eu.com,privacy,https://tokcount.com/privacy-policy,https://tokcount.com/privacy-policy,Privacy Policy,9,homepage_2022,20211227155039
+439,gcdn.co,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy Policy,8,homepage_2022,20220209070742
+439,gcdn.co,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms of Service,8,homepage_2022,20220209070742
+442,netangels.ru,privacy,https://www.netangels.ru/company/privacy-policy/,https://www.netangels.ru/company/privacy-policy/,Политика в отношении обработки и защиты персональных данных,4,homepage_latest,20260826190537
+445,dailymotion.com,terms,https://legal.dailymotion.com/en/terms-of-use/,https://www.dailymotion.com/legal/terms?localization=us,Terms,6,homepage_2022,20220701233130
+445,dailymotion.com,privacy,https://www.dailymotion.com/legal/privacy,,,,path_probe,
+449,pushy.io,terms,https://pushy.me/terms-and-privacy,https://pushy.me/terms-and-privacy,Terms & Privacy,6,homepage_2022,20211203165710
+449,pushy.io,privacy,https://pushy.me/terms-and-privacy,https://pushy.me/terms-and-privacy,Terms & Privacy,6,homepage_2022,20211203165710
+451,inmobi.com,privacy,https://advertising.inmobi.com/privacy-policy,https://www.inmobi.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220702104747
+451,inmobi.com,terms,https://www.inmobi.com/advertiser-terms,https://www.inmobi.com/advertiser-terms/,Advertiser Terms,3,homepage_2022,20220702104747
+452,chatgpt.site,terms,https://openai.com/policies/row-terms-of-use/,https://openai.com/policies/row-terms-of-use/,Terms of Use,9,homepage_latest,20261010083926
+452,chatgpt.site,privacy,https://openai.com/policies/privacy-policy/,https://openai.com/policies/privacy-policy/,Privacy Policy,9,homepage_latest,20261010083926
+453,intel.com,privacy,https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html,https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html,Privacy,7,homepage_latest,20261028090415
+453,intel.com,terms,https://www.intel.com/content/www/us/en/legal/terms-of-use.html,https://www.intel.com/content/www/us/en/legal/terms-of-use.html,Terms of Use,9,homepage_latest,20261028090415
+455,hostgator.com,terms,https://www.hostgator.com/tos,https://www.hostgator.com/tos/index,Terms of Service,8,homepage_2022,20220701233250
+455,hostgator.com,privacy,https://newfold.com/privacy-center,https://newfold.com/privacy-center,Privacy Notice,8,homepage_2022,20220701233250
+455,hostgator.com,terms,https://legal.newfold.com/TermsOfUse.pdf,https://legal.newfold.com/TermsOfUse.pdf,Terms of Use,9,homepage_latest,20261027081217
+458,ampproject.org,terms,https://terms-of-use.openjsf.org,https://terms-of-use.openjsf.org,Terms of Use,5,homepage_2022,20220702004735
+458,ampproject.org,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,privacy policy,8,homepage_2022,20220702004735
+456,dropcatch.com,terms,https://www.dropcatch.com/legal/terms,,,,path_probe,
+456,dropcatch.com,privacy,https://www.dropcatch.com/legal/privacy,,,,path_probe,
+461,g.page,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy?hl=de,Datenschutz,3,homepage_2022,20220701001132
+461,g.page,terms,https://policies.google.com/terms,https://policies.google.com/terms?hl=de,Nutzungsbedingungen,3,homepage_2022,20220701001132
+465,pixabay.com,terms,https://pixabay.com/service/terms/,https://pixabay.com/service/terms/,Terms,6,homepage_2022,20220701235419
+465,pixabay.com,privacy,https://pixabay.com/service/privacy/,https://pixabay.com/service/privacy/,Privacy,6,homepage_2022,20220701235419
+463,yahoo.co.jp,terms,https://about.yahoo.co.jp/2ly/all/,https://about.yahoo.co.jp/common/terms/,利用規約,3,homepage_2022,20220701232532
+463,yahoo.co.jp,terms,https://www.lycorp.co.jp/ja/company/terms/,https://www.lycorp.co.jp/ja/company/terms/,利用規約,3,homepage_latest,20261108100943
+463,yahoo.co.jp,privacy,https://www.lycorp.co.jp/ja/company/privacypolicy/,https://www.lycorp.co.jp/ja/company/privacypolicy/,プライバシーポリシー,4,homepage_latest,20261108100943
+467,duolingo.com,terms,https://www.duolingo.com/terms,https://www.duolingo.com/terms,Terms,6,homepage_2022,20220702010951
+467,duolingo.com,privacy,https://www.duolingo.com/privacy,https://www.duolingo.com/privacy,Privacy,6,homepage_2022,20220702010951
+466,kaspersky-labs.com,privacy,https://www.kaspersky.com/web-privacy-policy,https://www.kaspersky.com/web-privacy-policy,Privacy Policy,9,homepage_2022,20220308152552
+470,bluehost.com,terms,https://www.bluehost.com/terms/user-agreement,https://www.bluehost.com/terms,Terms of Service,8,homepage_2022,20220701234332
+470,bluehost.com,privacy,https://newfold.com/privacy-center,https://newfold.com/privacy-center,Privacy Notice,8,homepage_2022,20220701234332
+470,bluehost.com,terms,https://legal.newfold.com/TermsOfUse.pdf,https://legal.newfold.com/TermsOfUse.pdf,Terms of Use,9,homepage_latest,20261028213756
+469,speedtest.net,privacy,https://www.speedtest.net/about/privacy,https://www.speedtest.net/about/privacy,Privacy Policy,8,homepage_2022,20220701232430
+469,speedtest.net,terms,https://www.speedtest.net/about/terms,https://www.speedtest.net/about/terms,Terms of Use,8,homepage_2022,20220701232430
+469,speedtest.net,privacy,https://www.ookla.com/privacy,https://www.ookla.com/privacy,Privacy Policy,8,homepage_latest,20261108110108
+473,huawei.com,privacy,https://www.huawei.com/en/privacy-policy,https://www.huawei.com/en/privacy-policy,Read our privacy policy,9,homepage_2022,20220702095643
+473,huawei.com,terms,https://www.huawei.com/en/legal,https://www.huawei.com/en/legal,Terms of Use,6,homepage_2022,20220702095643
+475,taboola.com,terms,https://policies.taboola.com/terms-of-use/,https://www.taboola.com/policies/terms-of-use,Terms of Use,9,homepage_2022,20220702000759
+475,taboola.com,privacy,https://policies.taboola.com/privacy-policy/,https://www.taboola.com/policies/privacy-policy,Privacy Policy,9,homepage_2022,20220702000759
+474,mcafee.com,privacy,https://www.mcafee.com/learn/social-privacy-manager,https://www.mcafee.com/learn/social-privacy-manager/,Social Privacy Manager,6,homepage_latest,20261108021619
+477,businessinsider.com,terms,https://www.insider-inc.com/terms/,https://www.insider-inc.com/terms/,Terms of Service,8,homepage_2022,20220702000543
+477,businessinsider.com,privacy,https://www.insider-inc.com/privacy-policy,https://www.insider-inc.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702000543
+477,businessinsider.com,terms,https://www.businessinsider.com/terms,https://www.businessinsider.com/terms,Terms of Service,8,homepage_latest,20261108031906
+477,businessinsider.com,privacy,https://www.businessinsider.com/privacy-policy,https://www.businessinsider.com/privacy-policy,Privacy Policy,9,homepage_latest,20261108031906
+480,walmart.com,privacy,https://corporate.walmart.com/privacy-security,https://corporate.walmart.com/privacy-security,Privacy Policy,8,homepage_2022,20220702001941
+480,walmart.com,privacy,https://corporate.walmart.com/privacy-security/walmart-privacy-notice,https://corporate.walmart.com/privacy-security/walmart-privacy-notice,Privacy Notice,9,homepage_latest,20261108054705
+481,cnbc.com,privacy,https://www.nbcuniversalprivacy.com/privacy,https://www.nbcuniversal.com/privacy?intake=CNBC,Privacy Policy,8,homepage_2022,20220701235624
+481,cnbc.com,terms,https://www.cnbc.com/market-data-terms-of-service/,https://www.cnbc.com/market-data-terms-of-service/,Market Data Terms of Use and Disclaimers,9,homepage_2022,20220701235624
+481,cnbc.com,privacy,https://www.versantprivacy.com/privacy,https://www.versantprivacy.com/privacy,Privacy Policy,8,homepage_latest,20261107123723
+484,goodreads.com,terms,https://www.goodreads.com/about/terms,https://www.goodreads.com/about/terms,Terms of Service,8,homepage_2022,20220702000355
+484,goodreads.com,privacy,https://www.goodreads.com/about/privacy,https://www.goodreads.com/about/privacy,Privacy Policy,8,homepage_2022,20220702000355
+485,wp.com,privacy,https://automattic.com/privacy/,https://automattic.com/privacy/,Privacy Policy,8,homepage_2022,20220702015306
+487,fandom.com,terms,https://www.fandom.com/terms-of-use,https://www.fandom.com/terms-of-use,Terms of Use,9,homepage_2022,20220701223506
+487,fandom.com,privacy,https://www.fandom.com/privacy-policy,https://www.fandom.com/privacy-policy,Privacy Policy,9,homepage_2022,20220701223506
+490,ietf.org,privacy,https://www.ietf.org/policies/,https://www.ietf.org/policies/,Privacy & policies,3,homepage_2022,20220701220101
+490,ietf.org,privacy,https://www.ietf.org/privacy-statement/,https://www.ietf.org/privacy-statement/,IETF/IRTF/IAB Privacy Statement,9,homepage_latest,20261104143815
+490,ietf.org,terms,https://www.ietf.org/meeting/terms-and-conditions/,https://www.ietf.org/meeting/terms-and-conditions/,IETF meeting terms and conditions,8,homepage_latest,20261104143815
+493,selectel.ru,terms,https://files.selectel.ru/docs/ru/user-agreement.pdf,https://files.selectel.ru/docs/ru/user-agreement.pdf,ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½Ð¸Ðµ,4,homepage_2022,20220701183653
+493,selectel.ru,terms,https://selectel.ru/about/documents/user-agreement/,https://selectel.ru/about/documents/user-agreement/,ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½Ð¸Ðµ,4,homepage_latest,20261105094709
+496,trendmicro.com,terms,https://www.trendmicro.com/en_us/what-is.html,https://www.trendmicro.com/vinfo/us/security/definition/a,Glossary of Terms,3,homepage_2022,20220626151258
+496,trendmicro.com,privacy,https://www.trendmicro.com/en_ca/about/trust-center/privacy.html,https://www.trendmicro.com/en_ca/about/trust-center/privacy.html,Privacy,6,homepage_2022,20220626151258
+496,trendmicro.com,terms,https://www.trendmicro.com/en_us/about/legal/terms-of-use.html,https://www.trendmicro.com/en_us/about/legal/terms-of-use.html,Terms of Use,9,homepage_latest,20261028200454
+496,trendmicro.com,privacy,https://www.trendmicro.com/en_us/about/trust-center/privacy.html,https://www.trendmicro.com/en_us/about/trust-center/privacy.html,Privacy,6,homepage_latest,20261028200454
+495,xiaomi.net,privacy,https://www.mi.com/us/about/privacy,https://www.mi.com/us/about/privacy/,Privacy Policy,8,homepage_2022,20220424134814
+499,mzstatic.com,terms,https://www.apple.com/legal/internet-services/terms/site.html,https://www.apple.com/legal/internet-services/terms/site.html,Terms of Use,8,homepage_2022,20220630194212
+499,mzstatic.com,privacy,https://www.apple.com/legal/privacy/,https://www.apple.com/legal/privacy/,Privacy Policy,8,homepage_2022,20220630194212
+500,scribd.com,privacy,https://support.scribd.com/hc/en-us/articles/210129366-Global-Privacy-Policy,https://www.scribd.com/privacy,Privacy,6,homepage_2022,20220701234930
+500,scribd.com,terms,https://www.scribd.com/terms,,,,path_probe,
+498,statista.com,privacy,https://www.statista.com/imprint/,https://www.statista.com/imprint/,Privacy,3,homepage_2022,20220702104833
+502,eventbrite.com,terms,https://www.eventbrite.com/corporate/legal/legalterms/,https://www.eventbrite.com/l/LegalTerms/,Terms,3,homepage_2022,20220702000245
+502,eventbrite.com,privacy,https://www.eventbrite.ca/help/en-ca/articles/460838/eventbrite-privacy-policy/,https://www.eventbrite.com/privacypolicy/,Privacy,7,homepage_2022,20220702000245
+504,teamviewer.com,privacy,https://www.teamviewer.com/en-us/legal/privacy-and-cookies/,https://www.teamviewer.com/en-us/privacy-notice/,Privacy Notice,9,homepage_2022,20220702020221
+507,foxnews.com,terms,https://www.foxnews.com/terms-of-use,https://www.foxnews.com/terms-of-use,New Terms of Use,9,homepage_2022,20220702000148
+507,foxnews.com,privacy,https://www.foxnews.com/privacy-policy,https://www.foxnews.com/privacy-policy,New Privacy Policy,9,homepage_2022,20220702000148
+508,addtoany.com,terms,https://www.addtoany.com/terms,https://www.addtoany.com/terms,Terms,6,homepage_2022,20220702000626
+508,addtoany.com,privacy,https://www.addtoany.com/privacy,https://www.addtoany.com/privacy,Privacy,6,homepage_2022,20220702000626
+506,sina.com.cn,privacy,https://www.sina.com.cn/privacy/,,,,path_probe,
+511,npr.org,terms,https://www.npr.org/about-npr/179876898/terms-of-use,https://www.npr.org/about-npr/179876898/terms-of-use,Terms of Use,9,homepage_2022,20220702000400
+511,npr.org,privacy,https://www.npr.org/about-npr/179878450/privacy-policy,https://www.npr.org/about-npr/179878450/privacy-policy,Privacy,7,homepage_2022,20220702000400
+513,braze.com,privacy,https://www.braze.com/company/legal/privacy,https://www.braze.com/company/legal/privacy,Privacy Policy,8,homepage_2022,20220702023820
+513,braze.com,terms,https://www.braze.com/company/legal,https://www.braze.com/company/legal,"Legal Get information on our legal terms, policies, compliance, and more",4,homepage_latest,20261026163607
+514,indiatimes.com,terms,https://www.indiatimes.com/termsandcondition,https://www.indiatimes.com/termsandcondition,Terms & Conditions,5,homepage_2022,20220702012812
+514,indiatimes.com,privacy,https://www.indiatimes.com/privacy-policy,https://www.indiatimes.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702012812
+515,playstation.com,privacy,https://www.playstation.com/en-us/legal/privacy-policy/,https://www.playstation.com/en-us/legal/privacy-policy/,Privacy policy,9,homepage_2022,20220702035914
+515,playstation.com,terms,https://www.playstation.com/en-us/legal/website-terms-of-use/,https://www.playstation.com/en-us/legal/terms-of-use/,Website terms of use,9,homepage_2022,20220702035914
+515,playstation.com,privacy,https://www.playstation.com/nl-nl/legal/privacy-policy/,https://www.playstation.com/nl-nl/legal/privacy-policy/,Privacybeleid,4,homepage_latest,20261102185231
+515,playstation.com,terms,https://www.playstation.com/nl-nl/legal/terms-of-service/,https://www.playstation.com/nl-nl/legal/psn-terms-of-service/,Servicevoorwaarden,4,homepage_latest,20261102185231
+517,google.de,privacy,https://www.google.de/intl/en/policies/privacy/,https://www.google.de/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220701235751
+517,google.de,terms,https://www.google.de/intl/en/policies/terms/,https://www.google.de/intl/en/policies/terms/,Terms,6,homepage_2022,20220701235751
+517,google.de,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy?hl=en&fg=1,Privacy,6,homepage_latest,20261103124813
+517,google.de,terms,https://policies.google.com/terms,https://policies.google.com/terms?hl=en&fg=1,Terms,6,homepage_latest,20261103124813
+518,markmonitor.com,privacy,https://clarivate.com/privacy-center/notices-policies/privacy-policy/,https://clarivate.com/privacy-center/notices-policies/privacy-policy/,Privacy Policy,9,homepage_2022,20220701110127
+518,markmonitor.com,terms,https://www.markmonitor.com/,https://www.markmonitor.com/legal/brand-protection-terms-and-conditions,Terms of Use,6,homepage_2022,20220701110127
+518,markmonitor.com,terms,https://www.markmonitor.com/domain-management-terms-and-conditions/,https://www.markmonitor.com/domain-management-terms-and-conditions/,Terms of Use,5,homepage_latest,20261104110430
+518,markmonitor.com,privacy,https://www.markmonitor.com/wp-content/uploads/2026/05/Privacy-Policy-for-Markmonitor.com_.pdf,https://www.markmonitor.com/wp-content/uploads/2026/05/Privacy-Policy-for-Markmonitor.com_.pdf,Privacy Policy,9,homepage_latest,20261104110430
+520,share.google,terms,http://www.google.com/policies/,http://www.google.com/policies/,Privacy & Terms,3,homepage_2022,20250216211757
+520,share.google,privacy,http://www.google.com/policies/,http://www.google.com/policies/,Privacy & Terms,3,homepage_2022,20250216211757
+521,google.com.hk,privacy,https://www.google.com.hk/intl/en/policies/privacy/,http://www.google.com.hk/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220702003908
+521,google.com.hk,terms,https://www.google.com.hk/intl/en/policies/terms/,http://www.google.com.hk/intl/en/policies/terms/,Terms,6,homepage_2022,20220702003908
+521,google.com.hk,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy?hl=en&fg=1,Privacy,6,homepage_latest,20261031041438
+521,google.com.hk,terms,https://policies.google.com/terms,https://policies.google.com/terms?hl=en&fg=1,Terms,6,homepage_latest,20261031041438
+525,openstreetmap.org,terms,https://osmfoundation.org/wiki/Terms_of_Use,https://osmfoundation.org/wiki/Terms_of_Use,Terms of Use,9,homepage_latest,20261108120659
+528,noaa.gov,privacy,https://www.noaa.gov/protecting-your-privacy,https://www.noaa.gov/protecting-your-privacy,Protecting Your Privacy,6,homepage_2022,20220701235400
+529,behance.net,terms,https://www.adobe.com/legal/terms.html,http://www.adobe.com/legal/terms.html,TOU,3,homepage_2022,20220701235624
+529,behance.net,privacy,https://www.adobe.com/privacy.html,http://www.adobe.com/privacy.html,Privacy,6,homepage_2022,20220701235624
+533,trueconf.net,terms,https://trueconf.com/company/legal/terms.html,https://trueconf.com/company/legal/terms.html,Terms of Use,8,homepage_2022,20221212091947
+533,trueconf.net,privacy,https://trueconf.com/company/legal/privacy.html,https://trueconf.com/company/legal/privacy.html,Privacy Policy,8,homepage_2022,20221212091947
+532,oraclecloud.com,privacy,https://www.oracle.com/legal/privacy/,https://www.oracle.com/legal/privacy/,Privacy,6,homepage_2022,20220813200716
+536,docker.com,terms,https://www.docker.com/legal/docker-terms-use/,https://www.docker.com/legal/docker-terms-service,Terms of Service,6,homepage_2022,20220702000441
+536,docker.com,privacy,https://www.docker.com/legal/privacy/,https://www.docker.com/legal/privacy,Privacy,6,homepage_2022,20220702000441
+537,supercell.com,terms,https://supercell.com/en/terms-of-service/,https://supercell.com/en/terms-of-service/,Terms of Service,9,homepage_latest,20261023015621
+537,supercell.com,privacy,https://supercell.com/en/privacy-policy/,https://supercell.com/en/privacy-policy/,Privacy Policy,9,homepage_latest,20261023015621
+541,mysql.com,privacy,https://www.oracle.com/legal/privacy/,https://www.oracle.com/legal/privacy/,Privacy,6,homepage_2022,20220702010726
+541,mysql.com,terms,https://www.oracle.com/us/legal/terms/index.html,https://www.oracle.com/us/legal/terms/index.html,Terms of Use,8,homepage_2022,20220702010726
+540,shop.app,privacy,https://www.shopify.com/legal/privacy,https://www.shopify.com/legal/privacy,privacy policy,8,homepage_2022,20220701225728
+540,shop.app,terms,https://shop.com/terms-of-service,https://shop.app/terms-of-service,Terms of Service,9,homepage_2022,20220701225728
+542,capcut.com,terms,https://www.capcut.com/resource/about-capcut-terms-of-service,https://www.capcut.com/resource/about-capcut-terms-of-service,Terms of Service,9,homepage_latest,20261107151718
+542,capcut.com,privacy,https://www.capcut.com/clause/privacy-policy,https://www.capcut.com/clause/privacy-policy?store_region=&lang=en,Privacy Policy,9,homepage_latest,20261107151718
+543,force.com,privacy,https://www.salesforce.com/company/privacy/,https://www.salesforce.com/company/privacy/,Privacy Information,6,homepage_2022,20220702021150
+543,force.com,terms,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,Terms of Service,9,homepage_2022,20220702021150
+544,appsflyer.com,privacy,https://www.appsflyer.com/legal/privacy-policy/,https://www.appsflyer.com/legal/privacy-policy/,Privacy policy,9,homepage_2022,20220702023728
+544,appsflyer.com,terms,https://www.appsflyer.com/legal/terms-of-use/,https://www.appsflyer.com/legal/terms-of-use/,Terms,7,homepage_2022,20220702023728
+544,appsflyer.com,terms,https://www.appsflyer.com/legal/site-terms/,https://www.appsflyer.com/legal/site-terms/,Terms,4,homepage_latest,20261104005837
+546,stackoverflow.com,privacy,https://stackoverflow.com/legal/privacy-policy,https://stackoverflow.com/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220701234233
+546,stackoverflow.com,terms,https://stackoverflow.com/legal/terms-of-service/public,https://stackoverflow.com/legal/terms-of-service,Terms of Service,9,homepage_2022,20220701234233
+547,e2ro.com,terms,http://whoisprivacyprotect.com/terms/privacylegal.html,http://whoisprivacyprotect.com/terms/privacylegal.html,Legal Terms,6,homepage_2022,20140517035353
+547,e2ro.com,privacy,http://whoisprivacyprotect.com/terms/privacylegal.html,http://whoisprivacyprotect.com/terms/privacylegal.html,Legal Terms,3,homepage_2022,20140517035353
+549,ft.com,privacy,https://www.ft.com/content/fa2683ec-fca0-4c5f-805c-531f1412831e,https://www.ft.com/content/fa2683ec-fca0-4c5f-805c-531f1412831e,How to save more lives and avoid a privacy apocalypse,3,homepage_2022,20220702004933
+549,ft.com,terms,https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603,https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603,US warns China it must ‘immediately’ meet terms of Busan trade deal,3,homepage_latest,20261108060139
+550,mozilla.com,privacy,https://www.mozilla.org/en-US/privacy/firefox/,https://www.mozilla.org/en-US/privacy/firefox/,Firefox Privacy Notice,8,homepage_2022,20220702050802
+550,mozilla.com,privacy,https://www.mozilla.org/en-US/privacy/websites/,https://www.mozilla.org/privacy/websites/,Privacy Policy,8,homepage_latest,20261103111533
+550,mozilla.com,terms,https://www.mozilla.org/en-US/about/legal/terms/firefox/,https://www.mozilla.org/about/legal/terms/firefox/,Terms of Use,8,homepage_latest,20261103111533
+553,adriver.ru,privacy,https://www.adriver.ru/about/privacy-en/,https://www.adriver.ru/about/privacy-en/,Privacy policy,8,homepage_2022,20220701105016
+553,adriver.ru,terms,https://www.adriver.ru/doc/help/terms/,https://www.adriver.ru/doc/terms/,Глоссарий,3,homepage_2022,20220701105016
+553,adriver.ru,privacy,https://www.adriver.ru/about/privacy/,https://www.adriver.ru/about/privacy/,Политика конфиденциальности,3,homepage_latest,20261029174011
+556,firefox.com,privacy,https://www.mozilla.org/en-US/privacy/firefox/,https://www.mozilla.org/en-US/privacy/firefox/,Firefox Privacy Notice,8,homepage_2022,20220701232328
+556,firefox.com,privacy,https://www.mozilla.org/en-US/privacy/websites/,https://www.mozilla.org/privacy/websites/,Privacy Policy,8,homepage_latest,20261103111533
+556,firefox.com,terms,https://www.mozilla.org/en-US/about/legal/terms/firefox/,https://www.mozilla.org/about/legal/terms/firefox/,Terms of Use,8,homepage_latest,20261103111533
+557,slideshare.net,terms,https://support.scribd.com/hc/en-us/articles/210129326-Global-Terms-of-Use,https://www.slideshare.net/terms,User Agreement,8,homepage_2022,20220702000919
+557,slideshare.net,privacy,https://support.scribd.com/hc/en-us/articles/210129366-Global-Privacy-Policy,https://www.slideshare.net/privacy,Privacy Policy,8,homepage_2022,20220702000919
+558,tandfonline.com,privacy,https://privacy.informa.com/,https://informa.com/privacy-policy/,Privacy policy,9,homepage_2022,20220701225411
+558,tandfonline.com,terms,https://www.tandfonline.com/terms-and-conditions,https://www.tandfonline.com/terms-and-conditions,Terms & conditions,8,homepage_2022,20220701225411
+559,centinel-analytica.com,privacy,https://centinelanalytica.com/datenschutz,https://www.centinelanalytica.com/datenschutz,Privacy Policy,5,homepage_2022,20250729155217
+560,visualstudio.com,privacy,https://privacy.microsoft.com/privacystatement,https://privacy.microsoft.com/privacystatement,privacy statement,9,homepage_2022,20220702064811
+560,visualstudio.com,privacy,https://www.microsoft.com/en-us/privacy,https://www.microsoft.com/en-us/privacy?icid=DSM_Footer_Company_Privacy,Privacy at Microsoft,6,homepage_latest,20261029214846
+561,oup.com,privacy,https://global.oup.com/privacy,https://global.oup.com/privacy,Privacy Policy,8,homepage_2022,20220702010115
+565,cloudns.net,terms,https://www.cloudns.net/tos/,https://www.cloudns.net/tos/,Terms of service,8,homepage_2022,20220701212204
+565,cloudns.net,privacy,https://www.cloudns.net/privacy-policy/,https://www.cloudns.net/privacy-policy/,Privacy Policy,9,homepage_2022,20220701212204
+569,cornell.edu,privacy,https://privacy.cornell.edu/,https://privacy.cornell.edu/,University Privacy,3,homepage_latest,20261030171213
+574,wired.com,privacy,https://www.wired.com/story/scotus-dobbs-roe-privacy-abortion/,https://www.wired.com/story/scotus-dobbs-roe-privacy-abortion,How Dobbs Threatens to Torpedo Privacy Rights in the US,6,homepage_2022,20220701235628
+574,wired.com,terms,https://www.condenast.com/user-agreement,https://www.condenast.com/user-agreement,User Agreement,9,homepage_2022,20220701235628
+574,wired.com,privacy,https://www.condenast.com/privacy-policy,http://www.condenast.com/privacy-policy,Privacy Policy,9,homepage_latest,20261108222916
+576,withgoogle.com,privacy,http://www.google.com/intl/en/policies/privacy/,https://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220704093951
+576,withgoogle.com,terms,https://www.google.com/intl/en/policies/terms/,https://www.google.com/intl/en/policies/terms/,Terms,6,homepage_2022,20220704093951
+575,wbx2.com,terms,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,https://www.cisco.com/c/en/us/about/legal/terms-conditions.html,Terms & Conditions,8,homepage_2022,20221004120645
+575,wbx2.com,privacy,https://www.cisco.com/site/us/en/about/legal/privacy.html,https://www.cisco.com/c/en/us/about/legal/privacy-full.html,Privacy Statement,8,homepage_2022,20221004120645
+577,tripadvisor.com,terms,https://tripadvisor.mediaroom.com/us-terms-of-use,https://tripadvisor.mediaroom.com/us-terms-of-use,Terms of Use,9,homepage_2022,20220701235136
+571,discord.media,terms,https://discord.com/terms,https://discord.com:443/terms,Terms,6,homepage_2022,20220617233038
+571,discord.media,privacy,https://discord.com/privacy,https://discord.com:443/privacy,Privacy,6,homepage_2022,20220617233038
+579,dreamhost.com,privacy,https://www.dreamhost.com/legal/privacy-policy/,https://www.dreamhost.com/legal/privacy-policy/,Privacy Policy,9,homepage_2022,20220702042812
+579,dreamhost.com,terms,https://www.dreamhost.com/legal/terms-of-service/,https://www.dreamhost.com/legal/terms-of-service/,Terms of Service,9,homepage_2022,20220702042812
+581,herokuapp.com,terms,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/,Terms of Service,9,homepage_2022,20220702011044
+581,herokuapp.com,privacy,https://www.salesforce.com/company/privacy/,https://www.salesforce.com/company/privacy/,Privacy,6,homepage_2022,20220702011044
+584,mediatek.com,privacy,https://www.mediatek.com/privacy-policy,https://www.mediatek.com/privacy-policy,Privacy Policy,9,homepage_2022,20220701234035
+584,mediatek.com,terms,https://www.mediatek.com/terms-of-use,https://www.mediatek.com/terms-of-use,Terms of Use,9,homepage_latest,20261104100901
+585,time.com,privacy,https://legal.time.com/us-privacy-policy/,https://time.com/privacy/privacy_policy.html,Privacy Policy,9,homepage_2022,20220702002109
+585,time.com,terms,https://legal.time.com/terms-of-service/,https://time.com/privacy/privacy_terms_service.html,Terms of Use,5,homepage_2022,20220702002109
+586,newrelic.com,terms,https://newrelic.com/termsandconditions/terms,https://newrelic.com/termsandconditions/terms,Terms of Service,8,homepage_2022,20220701170147
+586,newrelic.com,privacy,https://newrelic.com/termsandconditions/privacy,https://newrelic.com/termsandconditions/privacy,Privacy Policy,8,homepage_2022,20220701170147
+589,threads.com,terms,https://terms.threads.com/,https://terms.threads.com/,Terms,3,homepage_2022,20220629063807
+589,threads.com,privacy,https://www.threads.com/login/?next=https%3A%2F%2Fwww.threads.com%2Fprivacy%2F,https://threads.com/privacy,Privacy,6,homepage_2022,20220629063807
+589,threads.com,privacy,https://www.instagram.com/legal/privacy/health_privacy_policy/,https://www.instagram.com/legal/privacy/health_privacy_policy/,Consumer Health Privacy Policy,9,homepage_latest,20261108092428
+590,jquery.com,terms,https://terms-of-use.openjsf.org/,https://terms-of-use.openjsf.org/,Terms of Use,5,homepage_2022,20220701235626
+590,jquery.com,privacy,https://privacy-policy.openjsf.org/,https://privacy-policy.openjsf.org/,Privacy,3,homepage_2022,20220701235626
+588,0xrpc.io,privacy,https://0xrpc.github.io/privacy/,https://0xrpc.io/privacy,/privacy,6,homepage_2022,20250315011202
+594,squarespace.com,terms,https://www.squarespace.com/terms-of-service,https://www.squarespace.com/terms-of-service,Terms of service,9,homepage_2022,20220702000000
+594,squarespace.com,privacy,https://www.squarespace.com/privacy/,https://www.squarespace.com/privacy,Privacy policy,8,homepage_2022,20220702000000
+593,eset.com,privacy,https://www.eset.com/us/policy-hub/privacy/,https://www.eset.com/us/policy-hub/privacy/,Privacy,6,homepage_latest,20261030122327
+596,deviantart.com,terms,https://www.deviantart.com/about/policy/service,https://www.deviantart.com/about/policy/service,Terms of Service,5,homepage_2022,20220702000111
+596,deviantart.com,privacy,https://www.deviantart.com/about/policy/privacy,https://www.deviantart.com/about/policy/privacy,Privacy Policy,8,homepage_2022,20220702000111
+597,ca.gov,terms,https://www.ca.gov/legal/conditions-of-use/,https://www.ca.gov/use/,Conditions of Use,5,homepage_2022,20220701230213
+597,ca.gov,privacy,https://www.ca.gov/legal/privacy-policy/,https://www.ca.gov/privacy-policy/,Privacy Policy,9,homepage_2022,20220701230213
+598,ezvizlife.com,privacy,https://www.ezviz.com/us/legal/privacy-policy,https://www.ezviz.com/us/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220706095231
+598,ezvizlife.com,terms,https://www.ezviz.com/us/legal/terms-of-service,https://www.ezviz.com/us/legal/terms-of-service,Terms of Service,9,homepage_2022,20220706095231
+602,atlassian.com,privacy,https://www.atlassian.com/legal/privacy-policy,https://www.atlassian.com/legal/privacy-policy,Privacy policy,9,homepage_2022,20220701215907
+602,atlassian.com,terms,https://www.atlassian.com/legal/atlassian-customer-agreement,https://www.atlassian.com/legal/cloud-terms-of-service,Terms,7,homepage_2022,20220701215907
+604,media.net,terms,https://www.media.net/legal/tos/,https://www.media.net/legal/tos,terms of service,8,homepage_2022,20220702012053
+604,media.net,privacy,https://www.media.net/privacy-policy/,https://www.media.net/privacy-policy,privacy policy,9,homepage_2022,20220702012053
