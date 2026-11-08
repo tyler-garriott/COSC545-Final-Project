@@ -686,3 +686,67 @@ rank,domain,doc_type,url,link_url,anchor_text,score,source,source_timestamp
 602,atlassian.com,terms,https://www.atlassian.com/legal/atlassian-customer-agreement,https://www.atlassian.com/legal/cloud-terms-of-service,Terms,7,homepage_2022,20220701215907
 604,media.net,terms,https://www.media.net/legal/tos/,https://www.media.net/legal/tos,terms of service,8,homepage_2022,20220702012053
 604,media.net,privacy,https://www.media.net/privacy-policy/,https://www.media.net/privacy-policy,privacy policy,9,homepage_2022,20220702012053
+609,dailymail.com,privacy,https://www.dailymail.com/privacy,https://www.dailymail.co.uk/privacy,Privacy Policy,8,homepage_2022,20220702013423
+609,dailymail.com,terms,https://www.dailymail.com/terms,https://www.dailymail.co.uk/terms,Terms,6,homepage_2022,20220702013423
+608,adsrvr.org,privacy,https://www.thetradedesk.com/legal/privacy,https://www.thetradedesk.com/general/privacy,here.,3,homepage_2022,20220702000632
+610,target.com,terms,https://www.target.com/c/terms-conditions/-/N-4sr7l,https://www.target.com/c/terms-conditions/-/N-4sr7l,Terms,6,homepage_latest,20261108164207
+610,target.com,privacy,https://www.target.com/c/target-privacy-policy/-/N-4sr7p,https://www.target.com/c/target-privacy-policy/-/N-4sr7p,Privacy policy,9,homepage_latest,20261108164207
+611,vercel.app,privacy,https://vercel.com/legal/privacy-notice,https://vercel.com/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220701213140
+611,vercel.app,terms,https://vercel.com/legal/terms,https://vercel.com/legal/terms,Terms of Service,8,homepage_2022,20220701213140
+613,wix.com,terms,https://www.wix.com/about/terms-of-use,https://www.wix.com/about/terms-of-use,Terms of Use,9,homepage_2022,20220702000609
+613,wix.com,privacy,https://www.wix.com/about/privacy,https://www.wix.com/about/privacy,Privacy Policy,8,homepage_2022,20220702000609
+615,ieee.org,privacy,https://www.ieee.org/security-privacy.html,https://www.ieee.org/security-privacy.html,IEEE Privacy Policy,8,homepage_2022,20220702014745
+615,ieee.org,terms,https://www.ieee.org/terms,,,,path_probe,
+612,digitalocean.com,privacy,https://www.digitalocean.com/legal/privacy-policy,https://www.digitalocean.com/legal/privacy-policy,Privacy Policy,9,homepage_latest,20261107121355
+612,digitalocean.com,terms,https://www.digitalocean.com/legal/,,,,path_probe,
+621,mdpi.com,terms,https://www.mdpi.com/about/terms-and-conditions,https://www.mdpi.com/about/terms-and-conditions,Terms and Conditions,8,homepage_2022,20220701210832
+621,mdpi.com,privacy,https://www.mdpi.com/about/privacy,https://www.mdpi.com/about/privacy,Privacy Policy,8,homepage_2022,20220701210832
+621,mdpi.com,terms,https://www.mdpi.com/about/termsofuse,https://www.mdpi.com/about/termsofuse,Terms of Use,9,homepage_latest,20261104101933
+622,usatoday.com,terms,https://cm.usatoday.com/terms/,https://cm.usatoday.com/terms/,Terms of Service,8,homepage_2022,20220702000046
+622,usatoday.com,privacy,https://cm.usatoday.com/privacy/,https://cm.usatoday.com/privacy,Privacy Policy,8,homepage_2022,20220702000046
+623,doubleverify.com,privacy,https://doubleverify.com/privacy-notice,https://doubleverify.com/privacy-notice/,Privacy Notice,9,homepage_2022,20220702002811
+623,doubleverify.com,terms,https://doubleverify.com/terms-and-conditions,https://doubleverify.com/terms-and-conditions/,Terms and Conditions,8,homepage_2022,20220702002811
+625,sagepub.com,privacy,https://www.sagepub.com/privacy,https://us.sagepub.com/en-us/nam/privacy-policy,Privacy Policy,9,homepage_2022,20220702044524
+625,sagepub.com,terms,https://www.sagepub.com/terms,,,,path_probe,
+626,unesco.org,terms,https://www.unesco.org/en,https://www.unesco.org/en,Terms of use,5,homepage_2022,20220701143906
+626,unesco.org,privacy,https://www.unesco.org/en/privacy-notice,https://www.unesco.org/en/website-privacy-notice,Website Privacy Notice,9,homepage_2022,20220701143906
+626,unesco.org,terms,https://www.unesco.org/en/terms-use,https://www.unesco.org/en/terms-use,Terms of Use,8,homepage_latest,20261030083850
+627,mobile.de,privacy,https://www.mobile.de/service/privacyPolicy,https://www.mobile.de/service/privacyPolicy?lang=de,Datenschutz,4,homepage_2022,20220701204929
+628,juicyscore.com,privacy,https://juicyscore.online/en/privacy,https://juicyscore.online/en/privacy,JuicyScore data policy,3,homepage_latest,20250424054618
+630,telegraph.co.uk,terms,https://www.telegraph.co.uk/about-us/terms-and-conditions/,https://www.telegraph.co.uk/about-us/terms-and-conditions/,Terms and Conditions,8,homepage_2022,20220701235726
+630,telegraph.co.uk,privacy,https://www.telegraph.co.uk/privacy/,,,,path_probe,
+633,usercontent.goog,privacy,https://www.google.com/intl/pt-BR/policies/privacy/,http://www.google.com/intl/pt-BR/policies/privacy/,Privacidade,3,homepage_2022,20211224152256
+633,usercontent.goog,terms,https://www.google.com/intl/pt-BR/policies/terms/,http://www.google.com/intl/pt-BR/policies/terms/,Termos,3,homepage_2022,20211224152256
+634,hotjar.com,privacy,https://www.hotjar.com/legal/policies/privacy/,https://www.hotjar.com/legal/policies/privacy/,Privacy Policy,8,homepage_2022,20220701235206
+634,hotjar.com,terms,https://contentsquare.com/legal/terms-conditions/,https://www.hotjar.com/legal/policies/terms-of-service/,Terms of Service,9,homepage_2022,20220701235206
+634,hotjar.com,privacy,https://contentsquare.com/privacy-policy/,https://contentsquare.com/privacy-policy/,Privacy Policies,7,homepage_latest,20261027063847
+634,hotjar.com,terms,https://contentsquare.com/page-legal-terms-of-service/,https://contentsquare.com/page-legal-terms-of-service/,Terms of Service,9,homepage_latest,20261027063847
+631,berkeley.edu,privacy,https://www.berkeley.edu/privacy_policy,https://www.berkeley.edu/privacy_policy,Privacy,7,homepage_2022,20220701200228
+631,berkeley.edu,privacy,https://www.berkeley.edu/privacy-policy/,https://www.berkeley.edu/privacy-policy/,Privacy policy,9,homepage_latest,20261026094144
+637,sophos.com,terms,https://www.sophos.com/en-us/legal/sophos-website,https://www.sophos.com/en-us/legal/sophos-website,Terms,4,homepage_2022,20220702104236
+637,sophos.com,privacy,https://www.sophos.com/en-us/legal/sophos-group-privacy-notice,https://www.sophos.com/en-us/legal/sophos-group-privacy-notice,Privacy Notice,9,homepage_2022,20220702104236
+635,nintendo.com,privacy,https://www.nintendo.com/en-ca/privacy-policy/,https://www.nintendo.com/privacy-policy/,Privacy policy,9,homepage_2022,20220701232642
+635,nintendo.com,terms,https://www.nintendo.com/us/terms-of-use/,https://www.nintendo.com/terms-of-use/,Terms of Use,9,homepage_2022,20220701232642
+638,techcrunch.com,privacy,https://techcrunch.com/2022/07/01/google-abortion-clinic-location-data-privacy/,https://techcrunch.com/2022/07/01/google-abortion-clinic-location-data-privacy/,Google will start erasing location data for abortion clinic visits,3,homepage_2022,20220701232509
+638,techcrunch.com,privacy,https://techcrunch.com/privacy-policy/,https://techcrunch.com/privacy-policy/,Privacy Notice,9,homepage_latest,20261105101840
+638,techcrunch.com,terms,https://techcrunch.com/terms-of-service/,https://techcrunch.com/terms-of-service/,Terms of Service,9,homepage_latest,20261105101840
+641,hicloud.com,terms,https://cloud.huawei.com/cloudSpaceTransit,https://cloud.huawei.com/cloudSpaceTransit,HUAWEI Cloud User Agreement,5,homepage_2022,20220621163600
+641,hicloud.com,privacy,https://cloud.huawei.com/privacyStatementTransit,https://cloud.huawei.com/privacyStatementTransit,Statement About HUAWEI Cloud and Privacy,7,homepage_2022,20220621163600
+639,avito.ru,terms,https://www.avito.ru/legal/,,,,path_probe,
+643,ikea.com,privacy,https://www.ikea.com/global/en/privacy/privacy-cookie-statement/,https://about.ikea.com/en/ikea-policies/privacy-statement,Privacy statement,9,homepage_2022,20220702010644
+647,accuweather.com,terms,https://legal.accuweather.com/,https://www.accuweather.com/en/legal,Terms of Use,6,homepage_2022,20220701225940
+647,accuweather.com,privacy,https://legal.accuweather.com/privacy-policy/,https://www.accuweather.com/en/privacy,Privacy Policy,8,homepage_2022,20220701225940
+648,onetrust.com,privacy,https://www.onetrust.com/privacy/,https://www.onetrust.com/privacy/,Privacy Notice,8,homepage_2022,20220702000309
+648,onetrust.com,privacy,https://www.onetrust.com/privacy-notice/,https://www.onetrust.com/content/onetrust/us/en/privacy-notice,Privacy Notice,9,homepage_latest,20261030051906
+648,onetrust.com,terms,https://www.onetrust.com/glossary/,https://www.onetrust.com/content/onetrust/us/en/glossary,"Glossary of AI Governance, Privacy & Data Risk Terms",3,homepage_latest,20261030051906
+650,merriam-webster.com,privacy,https://www.merriam-webster.com/i/privacy-policy,https://www.merriam-webster.com/privacy-policy,Privacy Policy,9,homepage_2022,20220701235335
+650,merriam-webster.com,terms,https://www.merriam-webster.com/i/terms-of-use,https://www.merriam-webster.com/terms-of-use,Terms of Use,9,homepage_2022,20220701235335
+652,verisign.com,terms,https://www.verisign.com/en_US/legal-notices/domain-name-search-terms-of-service/index.xhtml,https://www.verisign.com/en_US/legal-notices/domain-name-search-terms-of-service/index.xhtml,Terms of Service,9,homepage_2022,20220702034141
+652,verisign.com,privacy,https://www.verisign.com/legal-center/privacy/,https://www.verisign.com/en_US/privacy-center/index.xhtml,Privacy,6,homepage_2022,20220702034141
+652,verisign.com,terms,https://www.verisign.com/legal-center/terms-of-use/,https://www.verisign.com/legal-center/terms-of-use/,Terms of Use,9,homepage_latest,20261105183114
+649,samsungapps.com,privacy,https://www.samsung.com/at/info/privacy/,https://www.samsung.com/at/info/privacy/,Datenschutzrichtlinie,3,homepage_latest,20260527042805
+654,jotform.com,terms,https://www.jotform.com/terms/,https://www.jotform.com/terms/,Terms & Conditions,8,homepage_2022,20220701222838
+654,jotform.com,privacy,https://www.jotform.com/privacy/,https://www.jotform.com/privacy/,Privacy Policy,8,homepage_2022,20220701222838
+653,intercom.io,terms,https://www.intercom.com/legal/terms-and-policies,https://intercom.com/terms-and-policies?on_pageview_event=terms_footer,Terms,6,homepage_2022,20220702033450
+653,intercom.io,privacy,https://www.intercom.com/legal/terms-and-policies,https://intercom.com/terms-and-policies,Privacy,3,homepage_2022,20220702033450
+653,intercom.io,privacy,https://www.intercom.com/legal/privacy,https://www.intercom.com/legal/privacy,Privacy,6,homepage_latest,20261023123537
