@@ -1,0 +1,58 @@
+{
+  "policy_urls": {
+    "raw_rows": 1720,
+    "clean_rows": 1712,
+    "dropped_duplicate_or_variant": 8
+  },
+  "snapshots": {
+    "dropped_duplicate_capture": 384,
+    "dropped_same_month_after_merge": 0,
+    "raw_rows": 46966,
+    "clean_rows": 46582,
+    "flagged_non_html": 219,
+    "flagged_small_payload": 166
+  },
+  "documents": {
+    "canonical_documents": 1416,
+    "enumerated": 1234,
+    "not_yet_enumerated": 182,
+    "enumerated_with_zero_captures": 34,
+    "shared_by_multiple_domains": 139,
+    "merged_url_variants": 4,
+    "ambiguous_doc_type": 28
+  },
+  "versions": {
+    "distinct_versions": 44206,
+    "reverts": 525,
+    "unique_digests_to_fetch": 43496,
+    "captures_saved_by_dedup": 3086
+  },
+  "provider_snapshot_index": {
+    "raw_rows": 3445,
+    "clean_rows": 3443,
+    "by_provider": {
+      "anthropic": 845,
+      "google": 1324,
+      "meta": 184,
+      "openai": 966,
+      "xai": 124
+    }
+  },
+  "provider_texts": {
+    "anthropic_20261026081456.txt": {
+      "lines_before": 259,
+      "lines_after": 254,
+      "words": 4440
+    },
+    "google_20261026080143.txt": {
+      "lines_before": 125,
+      "lines_after": 121,
+      "words": 529
+    },
+    "openai_20261022075611.txt": {
+      "lines_before": 140,
+      "lines_after": 117,
+      "words": 1705
+    }
+  }
+}
