@@ -862,3 +862,233 @@ rank,domain,doc_type,url,link_url,anchor_text,score,source,source_timestamp
 755,globalsign.com,privacy,https://www.globalsign.com/en/repository/GlobalSign-Privacy-Policy.pdf,https://www.globalsign.com/en/repository/GlobalSign-Privacy-Policy.pdf,Privacy Policy,9,homepage_2022,20220701144057
 758,deepl.com,privacy,https://www.deepl.com/en/privacy,https://www.deepl.com/en/privacy,Privacy Policy,8,homepage_latest,20261027200509
 758,deepl.com,terms,https://www.deepl.com/en/pro-license,https://www.deepl.com/en/pro-license,Terms & Conditions,5,homepage_latest,20261027200509
+760,viber.com,terms,https://www.viber.com/en/terms/viber-terms-use/,https://www.viber.com/en/terms/viber-terms-use/,Terms of Service,8,homepage_2022,20220701221003
+760,viber.com,privacy,https://www.viber.com/en/terms/viber-privacy-policy/,https://www.viber.com/en/terms/viber-privacy-policy/,Privacy Policy,9,homepage_2022,20220701221003
+761,python.org,privacy,https://policies.python.org/python.org/Privacy-Notice/,https://www.python.org/privacy/,Privacy Policy,8,homepage_2022,20220702014359
+762,bild.de,privacy,https://www.bild.de/corporate-site/privatsphaere/bild-de/artikel-privatsphaere-72035848.bild.html,https://www.bild.de/corporate-site/privatsphaere/bild-de/artikel-privatsphaere-72035848.bild.html,Privacy-Manager,3,homepage_latest,20261108211137
+763,yieldmo.com,privacy,https://yieldmo.com/privacy-policy/,https://yieldmo.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702052645
+766,craigslist.org,terms,https://www.craigslist.org/about/terms.of.use/en,https://www.craigslist.org/about/terms.of.use,terms of use,8,homepage_2022,20220701234439
+766,craigslist.org,privacy,https://www.craigslist.org/about/privacy.policy,https://www.craigslist.org/about/privacy.policy,privacy policy,8,homepage_2022,20220701234439
+767,homedepot.com,privacy,https://www.homedepot.com/privacy/overview,https://www.homedepot.com/privacy/overview,Privacy & Security Center,6,homepage_2022,20220701232114
+767,homedepot.com,terms,https://www.homedepot.com/c/Terms_of_Use,https://www.homedepot.com/c/Terms_of_Use,Terms Of Use,9,homepage_2022,20220701232114
+768,my.com,terms,https://legal.my.com/us/general/tos/,https://legal.my.com/us/tos/,Terms of use,8,homepage_latest,20230429034653
+768,my.com,privacy,https://legal.my.com/us/mail/privacy_nonEU/,https://legal.my.com/us/mail/privacy_nonEU/,Privacy Policy,8,homepage_latest,20230429034653
+771,google.co.uk,privacy,https://www.google.co.uk/intl/en/policies/privacy/,http://www.google.co.uk/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220702000748
+771,google.co.uk,terms,https://www.google.co.uk/intl/en/policies/terms/,http://www.google.co.uk/intl/en/policies/terms/,Terms,6,homepage_2022,20220702000748
+771,google.co.uk,privacy,http://www.google.com/intl/en/policies/privacy/,http://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_latest,20261030121649
+771,google.co.uk,terms,https://www.google.com/intl/en/policies/terms/,http://www.google.com/intl/en/policies/terms/,Terms,6,homepage_latest,20261030121649
+773,g.co,terms,http://www.google.com/policies/,http://www.google.com/policies/,Privacy & Terms,3,homepage_2022,20220701173426
+773,g.co,privacy,http://www.google.com/policies/,http://www.google.com/policies/,Privacy & Terms,3,homepage_2022,20220701173426
+772,livejournal.com,terms,https://www.livejournal.com/legal/tos-en.bml,https://www.livejournal.com/legal/tos-en.bml,User agreement,8,homepage_2022,20220702000620
+772,livejournal.com,privacy,https://www.livejournal.com/legal/privacy-en.bml,https://www.livejournal.com/legal/privacy-en.bml,Privacy Policy,8,homepage_latest,20261107111341
+774,uk.com,privacy,https://uk.com/privacy-policy,https://uk.com/privacy-policy,Privacy Policy,9,homepage_latest,20261019130544
+774,uk.com,terms,https://uk.com/terms-of-use,https://uk.com/terms-of-use,Terms of Use,9,homepage_latest,20261019130544
+776,wpguardian.com,terms,https://app.wpguardian.io/legal/terms,https://app.wpguardian.io/legal/terms,Terms of Use,8,homepage_2022,20240808210656
+776,wpguardian.com,privacy,https://app.wpguardian.io/legal/privacy-policy,https://app.wpguardian.io/legal/privacy-policy,Privacy Policy,9,homepage_2022,20240808210656
+776,wpguardian.com,privacy,https://webpros.com/privacy-policy/,https://webpros.com/privacy-policy/,Privacy Policy,9,homepage_latest,20261030184238
+778,wpguardian.io,privacy,https://www.plesk.com/legal/#privacy-policy,https://www.plesk.com/privacy-policy,Privacy Policy,9,homepage_2022,20230719171748
+778,wpguardian.io,terms,https://www.plesk.com/legal/,https://www.plesk.com/legal/,Terms of Use,6,homepage_2022,20230719171748
+778,wpguardian.io,terms,https://app.wpguardian.io/legal/terms,https://app.wpguardian.io/legal/terms,Terms of Use,8,homepage_latest,20261030184238
+778,wpguardian.io,privacy,https://webpros.com/privacy-policy/,https://webpros.com/privacy-policy/,Privacy Policy,9,homepage_latest,20261030184238
+777,mailchimp.com,privacy,https://www.intuit.com/privacy/statement/,https://mailchimp.com/legal/privacy/,Privacy,6,homepage_2022,20220701235641
+777,mailchimp.com,terms,https://mailchimp.com/legal/,https://mailchimp.com/legal/,Terms,4,homepage_2022,20220701235641
+777,mailchimp.com,terms,https://mailchimp.com/legal/terms/,https://mailchimp.com/legal/terms/,Terms,6,homepage_latest,20261107061612
+781,mlb.com,terms,https://www.mlb.com/official-information/terms-of-use,https://www.mlb.com/official-information/terms-of-use,Terms of Use,9,homepage_2022,20220702003846
+781,mlb.com,privacy,https://www.mlb.com/official-information/privacy-policy,https://www.mlb.com/official-information/privacy-policy,Privacy Policy,9,homepage_2022,20220702003846
+782,nikkei.com,privacy,https://www.nikkei.com/lounge/privacy/privacy.html,https://www.nikkei.co.jp/nikkeiinfo/privacy/about.html,個人情報の取り扱い,3,homepage_2022,20220701235901
+782,nikkei.com,terms,https://www.nikkei.com/info/tos_ds.html,https://www.nikkei.com/info/tos_ds.html,利用規約,3,homepage_2022,20220701235901
+785,criteo.net,privacy,https://www.criteo.com/corporate-privacy-notice/,https://www.criteo.com/privacy/corporate-privacy-policy/,Website Privacy Policy,9,homepage_2022,20220702020414
+785,criteo.net,terms,https://www.criteo.com/terms-and-conditions/,http://www.criteo.com/terms-and-conditions/,Terms and Conditions,8,homepage_2022,20220702020414
+786,imgur.com,terms,https://imgur.com/tERMS,,,,path_probe,
+786,imgur.com,privacy,https://imgur.com/privacy,,,,path_probe,
+783,bestbuy.com,privacy,https://www.bestbuy.com/site/privacy-policy/interest-based-ads/pcmcat204400050066.c,https://www.bestbuy.com/site/privacy-policy/interest-based-ads/pcmcat204400050066.c?id=pcmcat204400050066,Interest-Based Ads,4,homepage_2022,20220701233019
+783,bestbuy.com,privacy,https://www.bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c,https://www.bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063,State Privacy Rights,7,homepage_latest,20261108233312
+788,supabase.co,terms,https://supabase.com/terms,https://supabase.com/docs/company/terms,Terms of service,8,homepage_2022,20220711111958
+788,supabase.co,privacy,https://supabase.com/privacy,https://supabase.com/docs/company/privacy,Privacy Policy,8,homepage_2022,20220711111958
+787,welt.de,privacy,https://www.welt.de/,https://www.welt.de/,Privacy-Manager,3,homepage_latest,20261108211135
+793,marriott.com,terms,https://www.marriott.com/about/terms-of-use.mi,https://www.marriott.com/about/terms-of-use.mi,Terms of Use,9,homepage_2022,20220701225856
+793,marriott.com,privacy,https://www.marriott.com/about/privacy.mi,https://www.marriott.com/about/privacy.mi,Privacy Center,6,homepage_2022,20220701225856
+795,mckinsey.com,terms,https://www.mckinsey.com/terms-of-use,,,,path_probe,
+795,mckinsey.com,privacy,https://www.mckinsey.com/privacy-policy,,,,path_probe,
+794,zoho.com,privacy,https://www.zoho.com/privacy-commitment.html,https://www.zoho.com/privacy-commitment.html,"Privacy and Zoho We donât own your data, you do. Learn More Â",6,homepage_2022,20220702013256
+798,zillow.com,terms,https://www.zillow.com/corporate/terms-of-use/,https://www.zillow.com/corporate/terms-of-use/,Terms of use,9,homepage_latest,20261108171118
+798,zillow.com,privacy,https://www.zillow.com/corporate/zg-privacy-notice/,https://www.zillow.com/corporate/zg-privacy-notice/,Privacy Notice,9,homepage_latest,20261108171118
+799,apnews.com,terms,https://apnews.com/termsofservice,https://apnews.com/termsofservice,Terms & Conditions,9,homepage_2022,20220702000527
+799,apnews.com,privacy,https://apnews.com/privacystatement,https://apnews.com/privacystatement,Privacy,7,homepage_2022,20220702000527
+797,crwdcntrl.net,privacy,https://www.lotame.com/privacy/,https://www.lotame.com/about-lotame/privacy/,Privacy Center,6,homepage_2022,20220130204631
+802,moloco.com,privacy,https://www.moloco.com/terms-and-policies/privacy-portal,https://www.moloco.com/privacy-policy,Privacy Policy,9,homepage_2022,20220703002037
+802,moloco.com,terms,https://www.moloco.com/terms-and-policies/terms-of-use,https://www.moloco.com/terms-and-policies/terms-of-use,terms of use,9,homepage_latest,20261006005151
+802,moloco.com,privacy,https://www.moloco.com/terms-and-policies/website-privacy-notice,https://www.moloco.com/terms-and-policies/website-privacy-notice,website privacy notice,9,homepage_latest,20261006005151
+804,ameblo.jp,terms,https://ameblo.jp/legal,,,,path_probe,
+804,ameblo.jp,privacy,https://ameblo.jp/privacy/,,,,path_probe,
+805,lenovo.com,privacy,https://www.lenovo.com/us/en/privacy/,https://www.lenovo.com/us/en/privacy/,Privacy,6,homepage_2022,20220701232118
+805,lenovo.com,terms,https://www.lenovo.com/us/en/terms-and-conditions/,https://www.lenovo.com/us/en/terms-and-conditions/,Sales terms and conditions,8,homepage_2022,20220701232118
+808,adjust.com,terms,https://www.adjust.com/terms/general-terms-and-conditions/,https://www.adjust.com/terms/general-terms-and-conditions/,Terms,6,homepage_2022,20220702050440
+808,adjust.com,privacy,https://www.adjust.com/terms/privacy-policy/,https://www.adjust.com/terms/privacy-policy/,Privacy Policy,9,homepage_2022,20220702050440
+810,prnewswire.com,privacy,https://www.cision.com/legal/privacy-policy/,https://www.prnewswire.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220702075113
+810,prnewswire.com,terms,https://www.prnewswire.com/terms-of-use/,https://www.prnewswire.com/terms-of-use/,Terms of Use,9,homepage_2022,20220702075113
+812,discordapp.com,terms,https://discord.com/terms,https://discord.com/terms,Terms,6,homepage_2022,20220702015304
+812,discordapp.com,privacy,https://discord.com/privacy,https://discord.com/privacy,Privacy,6,homepage_2022,20220702015304
+816,google.com.br,privacy,https://www.google.com.br/intl/en/policies/privacy/,https://www.google.com.br/intl/en/policies/privacy/,Privacy,6,homepage_2022,20220701232242
+816,google.com.br,terms,https://www.google.com.br/intl/en/policies/terms/,https://www.google.com.br/intl/en/policies/terms/,Terms,6,homepage_2022,20220701232242
+816,google.com.br,privacy,http://www.google.com/intl/en/policies/privacy/,https://www.google.com/intl/en/policies/privacy/,Privacy,6,homepage_latest,20261030042014
+816,google.com.br,terms,https://www.google.com/intl/en/policies/terms/,https://www.google.com/intl/en/policies/terms/,Terms,6,homepage_latest,20261030042014
+818,fiverr.com,privacy,https://www.fiverr.com/privacy-policy,https://www.fiverr.com/privacy-policy?source=footer,Privacy Policy,9,homepage_2022,20220701234248
+818,fiverr.com,terms,https://www.fiverr.com/terms_of_service,https://www.fiverr.com/terms_of_service?source=footer,Terms of Service,9,homepage_2022,20220701234248
+819,allegro.pl,terms,https://allegro.pl/terms,,,,path_probe,
+820,disneyplus.com,terms,https://www.disneyplus.com/,https://www.disneyplus.com/,Terms Apply,3,homepage_2022,20220702001948
+820,disneyplus.com,privacy,https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/,https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/,Children's Online Privacy Policy,9,homepage_2022,20220702001948
+821,airbnb.com,terms,https://www.airbnb.com/help/article/2908,https://www.airbnb.com/terms,Terms,6,homepage_2022,20220702002434
+821,airbnb.com,privacy,https://www.airbnb.com/help/article/2855,https://www.airbnb.com/terms/privacy_policy,Privacy,7,homepage_2022,20220702002434
+823,erome.com,terms,https://www.erome.com/s/terms,https://www.erome.com/s/terms,Terms & Privacy,6,homepage_2022,20220701135017
+823,erome.com,privacy,https://www.erome.com/s/terms,https://www.erome.com/s/terms,Terms & Privacy,3,homepage_2022,20220701135017
+824,netlify.app,terms,https://www.netlify.com/legal/terms-of-use/,https://netlify.app/legal/terms-of-use,Terms,7,homepage_2022,20220627083232
+824,netlify.app,privacy,https://netlify.app/privacy/,https://netlify.app/privacy,Privacy,6,homepage_2022,20220627083232
+824,netlify.app,privacy,https://www.netlify.com/privacy/,https://www.netlify.com/privacy/,Privacy,6,homepage_latest,20261028185312
+825,people.com,privacy,https://www.meredith.com/nmg/privacy,https://www.meredith.com/nmg/privacy,Privacy Policy this link opens in a new tab,8,homepage_2022,20220702003531
+825,people.com,terms,https://www.dotdashmeredith.com/,https://www.meredith.com/legal-ti/people/privacy_terms_service.html,Terms of Service this link opens in a new tab,5,homepage_2022,20220702003531
+825,people.com,privacy,https://www.people.inc/brands-privacy,https://www.people.inc/brands-privacy,Privacy Policy,8,homepage_latest,20261107153453
+825,people.com,terms,https://www.people.inc/brands-termsofservice,https://www.people.inc/brands-termsofservice,Terms of Service,9,homepage_latest,20261107153453
+828,ted.com,privacy,https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy,https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy,Privacy Policy,9,homepage_2022,20220702003512
+828,ted.com,terms,https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use,https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use,TED.com Terms of Use,9,homepage_2022,20220702003512
+827,33across.com,privacy,https://www.33across.com/privacy-policy,https://www.33across.com/privacy-policy/,Privacy Policy,9,homepage_2022,20220701232806
+831,onlyfans.com,terms,https://onlyfans.com/terms,,,,path_probe,
+831,onlyfans.com,privacy,https://onlyfans.com/privacy,,,,path_probe,
+833,zoom.com,privacy,https://www.zoom.com/en/trust/privacy/privacy-statement/,https://zoom.us/privacy,Privacy Policy,8,homepage_2022,20220630233406
+833,zoom.com,terms,https://www.zoom.com/en/trust/terms/,https://zoom.us/terms,Terms of Service,8,homepage_2022,20220630233406
+832,mixpanel.com,privacy,https://mixpanel.com/legal/privacy-policy/,https://mixpanel.com/legal/privacy-policy/,Privacy Policy,9,homepage_2022,20220701232725
+832,mixpanel.com,privacy,https://mixpanel.com/security-privacy/,https://mixpanel.com/security-privacy/,Security & Privacy,6,homepage_latest,20261108091657
+834,statuspage.io,privacy,https://www.atlassian.com/legal/privacy-policy,https://www.atlassian.com/legal/privacy-policy,Privacy policy,9,homepage_latest,20261107114544
+834,statuspage.io,terms,https://www.atlassian.com/legal/atlassian-customer-agreement,https://www.atlassian.com/legal/cloud-terms-of-service,Terms,7,homepage_latest,20261107114544
+835,usps.com,privacy,https://about.usps.com/who/legal/privacy-policy/,https://about.usps.com/who/legal/privacy-policy/,Privacy Policy,9,homepage_2022,20220701124456
+835,usps.com,terms,https://about.usps.com/who/legal/terms-of-use.htm,https://about.usps.com/who/legal/terms-of-use.htm,Terms of Use,9,homepage_2022,20220701124456
+839,teads.tv,privacy,https://www.teads.com/privacy-policy/,https://www.teads.com/privacy-policy/,Advertising Privacy Policy,9,homepage_2022,20220702041056
+839,teads.tv,terms,https://www.teads.com/terms-of-use/,https://www.teads.com/terms-of-use/,Terms of Use,9,homepage_2022,20220702041056
+838,usda.gov,privacy,https://www.usda.gov/privacy-policy,https://www.usda.gov/privacy-policy,Privacy Policy,9,homepage_2022,20220701230907
+840,liftoff.io,privacy,https://liftoff.ai/privacy-policy/,https://liftoff.io/privacy-policy/,Privacy Policy,9,homepage_2022,20220702015803
+840,liftoff.io,terms,https://liftoff.ai/terms-of-service/,https://liftoff.io/terms-of-service/,Terms of Service,9,homepage_2022,20220702015803
+841,agora.io,privacy,https://www.agora.io/en/privacy-policy/,https://www.agora.io/en/privacy-policy/,Privacy Policy,9,homepage_2022,20220629204358
+841,agora.io,terms,https://www.agora.io/en/terms-of-service/,https://www.agora.io/en/terms-of-service/,Terms of Service,9,homepage_2022,20220629204358
+842,vivo.com.cn,privacy,https://www.vivo.com.cn/about-vivo/vivo-privacy-policy,https://www.vivo.com.cn/about-vivo/vivo-privacy-policy,隐私政策,4,homepage_2022,20220628065449
+842,vivo.com.cn,terms,https://www.vivo.com.cn/about-vivo/user-agreement,https://www.vivo.com.cn/about-vivo/user-agreement,用户协议,4,homepage_2022,20220628065449
+844,flipkart.com,terms,https://www.flipkart.com/pages/terms,https://www.flipkart.com/pages/terms?otracker=undefined_footer_navlinks,Terms Of Use,8,homepage_2022,20220702013839
+844,flipkart.com,privacy,https://www.flipkart.com/pages/privacypolicy,https://www.flipkart.com/pages/privacypolicy?otracker=undefined_footer_navlinks,Privacy,7,homepage_2022,20220702013839
+849,auth0.com,privacy,https://www.okta.com/legal/privacy-policy/,https://auth0.com/privacy,Privacy,6,homepage_2022,20220701214355
+849,auth0.com,terms,https://www.okta.com/legal/terms-of-service/,https://auth0.com/web-terms,Terms,3,homepage_2022,20220701214355
+852,academia.edu,terms,https://www.academia.edu/terms,https://www.academia.edu/terms,Terms,6,homepage_2022,20220701235822
+852,academia.edu,privacy,https://www.academia.edu/privacy,https://www.academia.edu/privacy,Privacy,6,homepage_2022,20220701235822
+853,stackexchange.com,privacy,https://stackoverflow.com/legal/privacy-policy,https://stackoverflow.com/legal/privacy-policy,Privacy Policy,9,homepage_2022,20220702000119
+853,stackexchange.com,terms,https://stackoverflow.com/legal/terms-of-service/public,https://stackoverflow.com/legal/terms-of-service,Terms of Service,9,homepage_2022,20220702000119
+854,appspot.com,terms,https://policies.google.com/terms,https://accounts.google.com/TOS?loc=US&hl=en-US,Terms,6,homepage_2022,20220701093608
+854,appspot.com,privacy,https://policies.google.com/privacy,https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true,Privacy,3,homepage_2022,20220701093608
+859,synology.com,terms,https://www.synology.com/en-global/company/legal/terms_conditions,https://www.synology.com/company/legal/terms_conditions,Terms & Conditions,8,homepage_2022,20220701203345
+859,synology.com,privacy,https://www.synology.com/en-global/privacy,https://www.synology.com/privacy,Privacy,6,homepage_2022,20220701203345
+861,xvideos.com,terms,http://info.xvideos.net/legal/tos/,https://info.xvideos.com/legal/tos/,Terms of service,8,homepage_2022,20220701221711
+861,xvideos.com,privacy,https://info.xvideos.net/legal/privacynotice,https://info.xvideos.com/legal/privacynotice,Privacy notice,9,homepage_2022,20220701221711
+861,xvideos.com,terms,https://info.xvideos.net/legal/tos/,https://info.xvideos.net/legal/tos/,Terms of service,8,homepage_latest,20261026080036
+858,arcgis.com,privacy,https://trust.arcgis.com/en/privacy/privacy-tab-intro.htm,https://trust.arcgis.com/en/privacy/privacy-tab-intro.htm,,3,homepage_2022,20220701194934
+862,ebay.de,terms,https://pages.ebay.de/payment/2.0/terms.html,https://pages.ebay.de/payment/2.0/terms.html,Nutzungsbedingungen für die Zahlungsabwicklung,3,homepage_latest,20261102235750
+864,chess.com,terms,https://www.chess.com/legal/user-agreement,https://www.chess.com/legal/user-agreement,User Agreement,9,homepage_2022,20220702044956
+864,chess.com,privacy,https://www.chess.com/legal/privacy,https://www.chess.com/legal/privacy,Privacy,6,homepage_2022,20220702044956
+866,theverge.com,privacy,https://www.voxmedia.com/privacy-policy/,https://www.voxmedia.com/legal/privacy-notice,Privacy Notice,9,homepage_2022,20220702000447
+866,theverge.com,terms,https://www.voxmedia.com/terms-of-use/,https://www.voxmedia.com/legal/terms-of-use,Terms of Use,9,homepage_2022,20220702000447
+866,theverge.com,terms,https://www.pmc.com/terms-of-use,https://www.pmc.com/terms-of-use/,Terms of Use,9,homepage_latest,20261108093219
+866,theverge.com,privacy,https://www.pmc.com/privacy-policy,https://www.pmc.com/privacy-policy/,Privacy Policy,9,homepage_latest,20261108093219
+868,agoda.com,privacy,https://www.agoda.com/info/privacy.html,https://www.agoda.com/info/privacy.html,Privacy policy,8,homepage_2022,20220702010352
+868,agoda.com,terms,https://www.agoda.com/info/termsofuse.html,https://www.agoda.com/info/termsofuse.html,Terms of use,9,homepage_2022,20220702010352
+870,frontiersin.org,privacy,https://www.frontiersin.org/legal/privacy-policy,https://www.frontiersin.org/legal/privacy-policy,Privacy policy,9,homepage_latest,20261029031822
+870,frontiersin.org,terms,https://www.frontiersin.org/legal/terms-and-conditions,https://www.frontiersin.org/legal/terms-and-conditions,Terms and conditions,8,homepage_latest,20261029031822
+876,pexels.com,terms,https://www.pexels.com/imprint/,https://www.pexels.com/imprint/,Imprint & Terms,3,homepage_latest,20261107033514
+876,pexels.com,privacy,https://www.pexels.com/privacy-policy/,,,,path_probe,
+879,parklogic.com,terms,https://www.parklogic.com/about-us/terms-of-service,https://www.parklogic.com/about-us/terms-of-service,Terms of Service,9,homepage_2022,20220701053143
+879,parklogic.com,privacy,https://www.parklogic.com/,https://www.parklogic.com/about-us/privacy-policy,Privacy Policy,9,homepage_2022,20220701053143
+879,parklogic.com,terms,https://parklogic.com/,https://parklogic.com/legal/Terms-of-Service,Terms and conditions,9,homepage_latest,20261025111838
+879,parklogic.com,privacy,https://parklogic.com/,https://parklogic.com/legal/Privacy-Policy,Privacy Policy,9,homepage_latest,20261025111838
+878,cursor.sh,privacy,https://cursor.com/privacy,https://www.cursor.sh/privacy,Privacy,6,homepage_2022,20230523164154
+878,cursor.sh,terms,https://www.cursor.sh/tos.txt,https://www.cursor.sh/tos.txt,Terms,6,homepage_2022,20230523164154
+878,cursor.sh,terms,https://cursor.com/en-US/terms-of-service,https://cursor.com/en-US/terms-of-service,Terms of Service,9,homepage_latest,20261030160551
+878,cursor.sh,privacy,https://cursor.com/en-US/privacy,https://cursor.com/en-US/privacy,Privacy Policy,8,homepage_latest,20261030160551
+877,deloitte.com,privacy,https://www.deloitte.com/at/de/legal/privacy.html,https://www.deloitte.com/at/de/legal/privacy.html?icid=bn_privacy,Datenschutzhinweis Website,3,homepage_latest,20261102115946
+881,biblegateway.com,privacy,https://www.biblegateway.com/legal/privacy/,https://www.biblegateway.com/legal/privacy/,Privacy Policy,8,homepage_2022,20220701233501
+881,biblegateway.com,terms,https://www.biblegateway.com/legal/terms/,https://www.biblegateway.com/legal/terms/,Site: Terms of use,8,homepage_2022,20220701233501
+883,myspace.com,privacy,https://myspace.com/pages/privacy,https://myspace.com/pages/privacy,Privacy Policy,8,homepage_2022,20220702002820
+883,myspace.com,terms,https://myspace.com/pages/terms,https://myspace.com/pages/terms,Terms of Use Agreement,8,homepage_2022,20220702002820
+882,adgrx.com,privacy,https://samsungads.ca/en/,https://adgear.com/en/privacy/,Platform Privacy Statement,8,homepage_2022,20220702074104
+887,pendo.io,privacy,https://www.pendo.io/legal/privacy-policy/,https://www.pendo.io/legal/privacy-policy/,Privacy Policy,9,homepage_2022,20220702075217
+887,pendo.io,terms,https://www.pendo.io/legal/terms-of-service/,,,,path_probe,
+888,onetag-sys.com,privacy,https://www.onetag.com/privacy-center/,http://www.onetag.com/privacy/,Click here for our privacy policy,8,homepage_2022,20220702004107
+894,readthedocs.io,privacy,https://docs.readthedocs.com/platform/stable/privacy-policy.html,https://docs.readthedocs.io/page/privacy-policy.html,Privacy Policy,9,homepage_2022,20220629151618
+894,readthedocs.io,terms,https://about.readthedocs.com/terms-of-service/,https://docs.readthedocs.io/page/terms-of-service.html,Terms of Service,9,homepage_2022,20220629151618
+894,readthedocs.io,privacy,https://about.readthedocs.com/privacy-policy/,https://about.readthedocs.com/privacy-policy,Privacy Policy,9,homepage_latest,20260927185505
+896,no-ip.com,privacy,https://www.noip.com/legal/privacy,https://www.noip.com/legal/privacy,Privacy Policy,8,homepage_2022,20220701085406
+896,no-ip.com,terms,https://www.noip.com/legal/tos,https://www.noip.com/legal/tos,Terms of Service,8,homepage_2022,20220701085406
+898,cloudinary.com,terms,https://cloudinary.com/tou,https://cloudinary.com/tos,Terms of Use,8,homepage_2022,20220702000527
+898,cloudinary.com,privacy,https://cloudinary.com/privacy,https://cloudinary.com/privacy,Privacy Policy,8,homepage_2022,20220702000527
+897,worldbank.org,privacy,https://www.worldbank.org/ext/en/legal/world-bank-group-privacy-notice,https://www.worldbank.org/en/about/legal/privacy-notice,Privacy Notice,9,homepage_2022,20220702010118
+900,nbcnews.com,privacy,https://www.nbcuniversalprivacy.com/privacy,https://www.nbcuniversal.com/privacy/?intake=NBC_News,Privacy Policy,8,homepage_2022,20220702000609
+900,nbcnews.com,terms,https://www.nbcuniversal.com/terms,https://www.nbcnews.com/pages/terms-of-service,Terms of Service,9,homepage_2022,20220702000609
+901,poki.com,privacy,https://poki.com/en/privacy,https://poki.com/en/c/privacy-statement,Privacy Statement,9,homepage_2022,20220701212548
+901,poki.com,terms,https://poki.com/en/privacy,https://poki.com/en/c/terms-of-use,Terms of Use,9,homepage_2022,20220701212548
+902,pornhub.com,terms,https://www.pornhub.com/information/terms,https://www.pornhub.com/information/terms,Terms & Conditions,8,homepage_2022,20220701222313
+902,pornhub.com,privacy,https://www.pornhub.com/information/privacy,https://www.pornhub.com/information/privacy,Privacy Policy,8,homepage_2022,20220701222313
+902,pornhub.com,terms,https://www.pornhub.com/information,https://www.pornhub.com/information,Terms & Conditions,5,homepage_latest,20261108140250
+905,hbr.org,privacy,https://hbr.org/privacy-policy,https://hbr.org/privacy-policy,Privacy Policy,9,homepage_2022,20220701235926
+905,hbr.org,terms,https://hbr.org/terms-of-use,https://hbr.org/terms-of-use,Terms of Use,9,homepage_latest,20261030171803
+906,wyzecam.com,terms,https://www.wyze.com/policies/terms-of-service,https://www.wyze.com/policies/terms-of-service,Terms of service,9,homepage_2022,20220708003249
+906,wyzecam.com,privacy,https://www.wyze.com/policies/privacy-policy,https://www.wyze.com/policies/privacy-policy,Privacy policy,9,homepage_2022,20220708003249
+904,bankofamerica.com,privacy,https://web.bankofamerica.com/en/privacy/online-privacy-notice,https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US,Bank of America Online Privacy Notice,9,homepage_2022,20220701231326
+909,porkbun.com,privacy,https://policies.google.com/privacy,https://policies.google.com/privacy,Privacy Policy,8,homepage_2022,20220701172531
+909,porkbun.com,terms,https://policies.google.com/terms,https://policies.google.com/terms,Terms of Service,8,homepage_2022,20220701172531
+909,porkbun.com,privacy,https://porkbun.com/legal/agreement/privacy_policy,https://porkbun.com/legal/agreement/privacy_policy,Privacy Policy,9,homepage_latest,20261108140744
+908,allaboutcookies.org,privacy,https://allaboutcookies.org/privacy,,,,path_probe,
+910,figma.com,privacy,https://www.figma.com/summary-of-policy/,https://www.figma.com/summary-of-policy/,Privacy,3,homepage_2022,20220702024036
+910,figma.com,privacy,https://www.figma.com/legal/,https://www.figma.com/legal/,Legal and privacy,3,homepage_latest,20261108221508
+910,figma.com,terms,https://www.figma.com/tos/,,,,path_probe,
+911,epa.gov,privacy,https://www.epa.gov/privacy,https://www.epa.gov/privacy,Privacy,6,homepage_2022,20220701233439
+911,epa.gov,privacy,https://www.epa.gov/privacy/privacy-and-security-notice,https://www.epa.gov/privacy/privacy-and-security-notice,Privacy and Security Notice,6,homepage_latest,20261108182403
+914,fwmrm.net,privacy,https://www.freewheel.com/privacy-policy,https://www.freewheel.com/privacy-policy,Privacy Policy,9,homepage_2022,20200810075857
+914,fwmrm.net,terms,https://www.freewheel.com/terms-conditions,https://www.freewheel.com/terms-conditions,Advertiser Terms & Conditions,8,homepage_2022,20200810075857
+912,princeton.edu,privacy,https://www.princeton.edu/privacy-notice,https://www.princeton.edu/privacy-notice,Privacy Notice,9,homepage_2022,20220701205835
+916,lg.com,terms,https://www.lg.com/us/legal,https://www.lg.com/us/legal,Terms of Use,6,homepage_2022,20220702084507
+916,lg.com,privacy,https://privacy.us.lg.com/,https://www.lg.com/us/privacy,Privacy,6,homepage_2022,20220702084507
+916,lg.com,terms,https://www.lg.com/ca_en/terms-and-conditons-of-purchase/,https://www.lg.com/ca_en/terms-and-conditons-of-purchase/,Terms & Conditions of Purchase,8,homepage_latest,20261026071114
+916,lg.com,privacy,https://www.lg.com/ca_en/privacy/,https://www.lg.com/ca_en/privacy/,Privacy Policy,8,homepage_latest,20261026071114
+919,latimes.com,terms,https://www.latimes.com/terms-of-service,https://www.latimes.com/terms-of-service,Terms of Service,9,homepage_2022,20220702000639
+919,latimes.com,privacy,https://www.latimes.com/privacy-policy,https://www.latimes.com/privacy-policy,Privacy Policy,9,homepage_2022,20220702000639
+918,disqus.com,privacy,https://disqus.com/privacy-policy/,,,,path_probe,
+923,coupang.com,terms,https://www.coupang.com/np/policies/terms,https://www.coupang.com/np/policies/terms,이용약관,3,homepage_2022,20220701171446
+923,coupang.com,privacy,https://rocketpay.coupang.com/rocketpay/coupangpay-terms-v2/privacy-policy,https://rocketpay.coupang.com/rocketpay/coupangpay-terms-v2/privacy-policy,쿠팡페이 개인정보처리방침,4,homepage_2022,20220701171446
+922,service-now.com,terms,https://www.servicenow.com/terms-of-use.html,https://www.servicenow.com/terms-of-use.html,Terms and conditions,9,homepage_2022,20220705154603
+922,service-now.com,privacy,https://www.servicenow.com/privacy-statement.html,https://www.servicenow.com/privacy-statement.html,Privacy statement,9,homepage_2022,20220705154603
+920,smilewanted.com,privacy,https://www.smilewanted.com/privacy/,https://www.smilewanted.com/privacy/,Informations légales,3,homepage_2022,20220702221832
+924,networkadvertising.org,privacy,https://thenai.org/privacy-policy/,https://thenai.org/privacy-policy/,Privacy Policy,9,homepage_2022,20220701214901
+924,networkadvertising.org,terms,https://thenai.org/terms-of-use/,https://thenai.org/terms-of-use/,Terms of Use,9,homepage_2022,20220701214901
+921,hostgator.com.br,privacy,https://newfold.com/privacy-center,https://newfold.com/privacy-center,Central de Privacidade,3,homepage_2022,20220702014047
+921,hostgator.com.br,privacy,https://newfold.com/privacy-center/privacy,https://newfold.com/privacy-center/privacy,PolÃ­tica de privacidade,3,homepage_latest,20261030171831
+926,qualtrics.com,privacy,https://www.qualtrics.com/privacy-statement/,https://www.qualtrics.com/privacy-statement/,Privacy Statement,9,homepage_2022,20220702000035
+926,qualtrics.com,terms,https://www.qualtrics.com/legal/customers/gtcs/,https://www.qualtrics.com/terms-of-service/,Terms of Service,9,homepage_2022,20220702000035
+927,mayoclinic.org,terms,https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy,https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy,Terms and Conditions,8,homepage_2022,20220702002805
+927,mayoclinic.org,privacy,https://www.mayoclinic.org/about-this-site/privacy-policy,https://www.mayoclinic.org/about-this-site/privacy-policy,Privacy Policy,9,homepage_2022,20220702002805
+928,seedtag.com,privacy,https://www.seedtag.com/privacy,https://www.seedtag.com/privacy/,Privacy,6,homepage_2022,20220702014350
+928,seedtag.com,terms,https://www.seedtag.com/terms-and-conditions/,https://www.seedtag.com/terms-and-conditions/,Terms and Conditions,8,homepage_2022,20220702014350
+930,tailscale.com,privacy,https://tailscale.com/privacy-policy,https://tailscale.com/privacy-policy,Privacy,7,homepage_2022,20220701125009
+930,tailscale.com,terms,https://tailscale.com/terms,https://tailscale.com/terms,Terms,6,homepage_2022,20220701125009
+929,classlink.com,privacy,https://www.classlink.com/company/privacy,https://www.classlink.com/company/privacy,Privacy Policy,8,homepage_2022,20220629122439
+932,ddns.net,privacy,https://www.noip.com/legal/privacy,https://www.noip.com/legal/privacy,Privacy Policy,8,homepage_2022,20220607035641
+932,ddns.net,terms,https://www.noip.com/legal/tos,https://www.noip.com/legal/tos,Terms of Service,8,homepage_2022,20220607035641
+931,spamhaus.org,terms,https://www.spamhaus.org/blocklists/dnsbl-fair-use-policy/,https://www.spamhaus.org/organization/dnsblusage/,DNSBL Usage Terms,3,homepage_2022,20220701181418
+931,spamhaus.org,privacy,https://www.spamhaus.org/privacy-notice/,https://www.spamhaus.org/organization/privacy/,Privacy,6,homepage_2022,20220701181418
+931,spamhaus.org,terms,https://www.spamhaus.org/terms-conditions/,https://www.spamhaus.org/terms-conditions/,Terms & conditions,8,homepage_latest,20261105054232
+934,xiaohongshu.com,terms,https://www.xiaohongshu.com/terms,,,,path_probe,
+934,xiaohongshu.com,privacy,https://www.xiaohongshu.com/privacy,,,,path_probe,
+935,patreon.com,privacy,https://privacy.patreon.com/policies,https://privacy.patreon.com/policies,Privacy,3,homepage_2022,20220701235645
+935,patreon.com,terms,https://www.patreon.com/policy,https://www.patreon.com/policy,Policy & Terms,3,homepage_2022,20220701235645
+935,patreon.com,terms,https://www.patreon.com/policy/legal,https://www.patreon.com/policy/legal,Terms of Use & policies,6,homepage_latest,20261108184610
+935,patreon.com,privacy,https://privacy.patreon.com/,https://privacy.patreon.com/,Privacy policy,5,homepage_latest,20261108184610
+940,genius.com,privacy,https://genius.com/static/privacy_policy,https://genius.com/static/privacy_policy,Privacy Policy,9,homepage_2022,20220701214640
+940,genius.com,terms,https://genius.com/static/terms,https://genius.com/static/terms,Terms of Use,8,homepage_2022,20220701214640
+944,flashtalking.com,privacy,https://www.innovid.com/,https://www.flashtalking.com/privacypolicy,Privacy Policy,9,homepage_2022,20220701235928
+944,flashtalking.com,privacy,https://www.innovid.com/privacy-policy,https://www.innovid.com/privacy-policy,Privacy Policy,9,homepage_latest,20260927081732
+944,flashtalking.com,terms,https://www.innovid.com/terms-of-use,https://www.innovid.com/terms-of-use,Terms of Use,9,homepage_latest,20260927081732
+941,repubblica.it,privacy,https://www.repubblica.it/politica/2026/11/08/news/authority_privacy_consob_incarichi_politica_precedenti-425708287/?ref=RHLM-BG-P3-S3-T1-fdg14,https://www.repubblica.it/politica/2026/11/08/news/authority_privacy_consob_incarichi_politica_precedenti-425708287/?ref=RHLM-BG-P3-S3-T1-fdg14,I precedenti,3,homepage_latest,20261108152607
+943,state.gov,privacy,https://www.state.gov/privacy-policy,https://www.state.gov/privacy-policy/,Privacy Policy,9,homepage_2022,20220701232025
