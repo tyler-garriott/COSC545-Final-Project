@@ -7,35 +7,35 @@
   "snapshots": {
     "dropped_duplicate_capture": 384,
     "dropped_same_month_after_merge": 0,
-    "raw_rows": 46966,
-    "clean_rows": 46582,
-    "flagged_non_html": 219,
-    "flagged_small_payload": 166
+    "raw_rows": 49951,
+    "clean_rows": 49567,
+    "flagged_non_html": 226,
+    "flagged_small_payload": 168
   },
   "documents": {
     "canonical_documents": 1416,
-    "enumerated": 1234,
-    "not_yet_enumerated": 182,
-    "enumerated_with_zero_captures": 34,
+    "enumerated": 1337,
+    "not_yet_enumerated": 79,
+    "enumerated_with_zero_captures": 35,
     "shared_by_multiple_domains": 139,
     "merged_url_variants": 4,
     "ambiguous_doc_type": 28
   },
   "versions": {
-    "distinct_versions": 44206,
-    "reverts": 525,
-    "unique_digests_to_fetch": 43496,
-    "captures_saved_by_dedup": 3086
+    "distinct_versions": 47020,
+    "reverts": 539,
+    "unique_digests_to_fetch": 46290,
+    "captures_saved_by_dedup": 3277
   },
   "provider_snapshot_index": {
-    "raw_rows": 3445,
-    "clean_rows": 3443,
+    "raw_rows": 3628,
+    "clean_rows": 3626,
     "by_provider": {
-      "anthropic": 845,
-      "google": 1324,
-      "meta": 184,
-      "openai": 966,
-      "xai": 124
+      "anthropic": 881,
+      "google": 1376,
+      "meta": 185,
+      "openai": 1045,
+      "xai": 139
     }
   },
   "provider_texts": {
@@ -44,15 +44,40 @@
       "lines_after": 254,
       "words": 4440
     },
+    "anthropic_20261110103346.txt": {
+      "lines_before": 257,
+      "lines_after": 253,
+      "words": 4439
+    },
     "google_20261026080143.txt": {
       "lines_before": 125,
       "lines_after": 121,
       "words": 529
     },
+    "google_20261109184844.txt": {
+      "lines_before": 125,
+      "lines_after": 121,
+      "words": 529
+    },
+    "meta_20261011170801.txt": {
+      "lines_before": 104,
+      "lines_after": 99,
+      "words": 725
+    },
     "openai_20261022075611.txt": {
       "lines_before": 140,
       "lines_after": 117,
       "words": 1705
+    },
+    "openai_20261106200208.txt": {
+      "lines_before": 140,
+      "lines_after": 117,
+      "words": 1705
+    },
+    "xai_20261110081323.txt": {
+      "lines_before": 53,
+      "lines_after": 51,
+      "words": 843
     }
   }
 }

@@ -1,0 +1,4 @@
+# Fetched page texts from fetch_text.py (~50K files, hundreds of MB).
+# Share via a zip/drive instead of git; text_versions.csv is the committed output.
+data/pages/
+__pycache__/
