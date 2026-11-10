@@ -1,0 +1,10 @@
+Tranco V354N: 1500 domains -> /home/tyler/grad/cosc545/COSC545-Final-Project/data/tranco
+Enumeration: 80 URLs to do (1346 already done)
+  ! CDX failed for https://www.theguardian.com/info/privacy (will retry on re-run)
+  enumerated: 25/80
+  enumerated: 50/80
+  enumerated: 75/80
+  enumerated: 80/80
+
+Discovery status: both=633, no_homepage=292, none_found=345, partial=230
+Policy URLs: 1720   Snapshots listed: 53020
